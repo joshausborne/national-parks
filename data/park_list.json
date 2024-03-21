@@ -45,42 +45,6 @@
     "unitUrl": "https://www.nps.gov/bisc/index.htm"
   },
   {
-    "unitCode": "yell",
-    "unitDate": "1872-03-01",
-    "unitImg": "https://parkvisits.com/images/yell.jpg",
-    "unitName": "Yellowstone National Park",
-    "unitStates": "WY, MT, ID",
-    "unitType": "NP",
-    "unitUrl": "https://www.nps.gov/yell/index.htm"
-  },
-  {
-    "unitCode": "yose",
-    "unitDate": "1890-10-01",
-    "unitImg": "https://parkvisits.com/images/yose.jpg",
-    "unitName": "Yosemite National Park",
-    "unitStates": "CA",
-    "unitType": "NP",
-    "unitUrl": "https://www.nps.gov/yose/index.htm"
-  },
-  {
-    "unitCode": "zion",
-    "unitDate": "1919-11-19",
-    "unitImg": "https://parkvisits.com/images/zion.jpg",
-    "unitName": "Zion National Park",
-    "unitStates": "UT",
-    "unitType": "NP",
-    "unitUrl": "https://www.nps.gov/zion/index.htm"
-  },
-  {
-    "unitCode": "badl",
-    "unitDate": "1978-11-10",
-    "unitImg": "https://parkvisits.com/images/badl.jpg",
-    "unitName": "Badlands National Park",
-    "unitStates": "SD",
-    "unitType": "NP",
-    "unitUrl": "https://www.nps.gov/badl/index.htm"
-  },
-  {
     "unitCode": "blca",
     "unitDate": "1999-10-21",
     "unitImg": "https://parkvisits.com/images/blca.jpg",
@@ -162,15 +126,6 @@
     "unitUrl": "https://www.nps.gov/cuva/index.htm"
   },
   {
-    "unitCode": "deva",
-    "unitDate": "1994-10-31",
-    "unitImg": "https://parkvisits.com/images/deva.jpg",
-    "unitName": "Death Valley National Park",
-    "unitStates": "CA, NV",
-    "unitType": "NP",
-    "unitUrl": "https://www.nps.gov/deva/index.htm"
-  },
-  {
     "unitCode": "dena",
     "unitDate": "1917-02-26",
     "unitImg": "https://parkvisits.com/images/dena.jpg",
@@ -178,6 +133,15 @@
     "unitStates": "AK",
     "unitType": "NP",
     "unitUrl": "https://www.nps.gov/dena/index.htm"
+  },
+  {
+    "unitCode": "deva",
+    "unitDate": "1994-10-31",
+    "unitImg": "https://parkvisits.com/images/deva.jpg",
+    "unitName": "Death Valley National Park",
+    "unitStates": "CA, NV",
+    "unitType": "NP",
+    "unitUrl": "https://www.nps.gov/deva/index.htm"
   },
   {
     "unitCode": "drto",
@@ -207,15 +171,6 @@
     "unitUrl": "https://www.nps.gov/gaar/index.htm"
   },
   {
-    "unitCode": "glba",
-    "unitDate": "1980-12-02",
-    "unitImg": "https://parkvisits.com/images/glba.jpg",
-    "unitName": "Glacier Bay National Park",
-    "unitStates": "AK",
-    "unitType": "NP",
-    "unitUrl": "https://www.nps.gov/glba/index.htm"
-  },
-  {
     "unitCode": "glac",
     "unitDate": "1910-05-11",
     "unitImg": "https://parkvisits.com/images/glac.jpg",
@@ -225,22 +180,13 @@
     "unitUrl": "https://www.nps.gov/glac/index.htm"
   },
   {
-    "unitCode": "grca",
-    "unitDate": "1919-02-26",
-    "unitImg": "https://parkvisits.com/images/grca.jpg",
-    "unitName": "Grand Canyon National Park",
-    "unitStates": "AZ",
+    "unitCode": "glba",
+    "unitDate": "1980-12-02",
+    "unitImg": "https://parkvisits.com/images/glba.jpg",
+    "unitName": "Glacier Bay National Park",
+    "unitStates": "AK",
     "unitType": "NP",
-    "unitUrl": "https://www.nps.gov/grca/index.htm"
-  },
-  {
-    "unitCode": "grte",
-    "unitDate": "1929-02-26",
-    "unitImg": "https://parkvisits.com/images/grte.jpg",
-    "unitName": "Grand Teton National Park",
-    "unitStates": "WY",
-    "unitType": "NP",
-    "unitUrl": "https://www.nps.gov/grte/index.htm"
+    "unitUrl": "https://www.nps.gov/glba/index.htm"
   },
   {
     "unitCode": "grba",
@@ -250,6 +196,15 @@
     "unitStates": "NV",
     "unitType": "NP",
     "unitUrl": "https://www.nps.gov/grba/index.htm"
+  },
+  {
+    "unitCode": "grca",
+    "unitDate": "1919-02-26",
+    "unitImg": "https://parkvisits.com/images/grca.jpg",
+    "unitName": "Grand Canyon National Park",
+    "unitStates": "AZ",
+    "unitType": "NP",
+    "unitUrl": "https://www.nps.gov/grca/index.htm"
   },
   {
     "unitCode": "grsa",
@@ -268,6 +223,15 @@
     "unitStates": "TN, NC",
     "unitType": "NP",
     "unitUrl": "https://www.nps.gov/grsm/index.htm"
+  },
+  {
+    "unitCode": "grte",
+    "unitDate": "1929-02-26",
+    "unitImg": "https://parkvisits.com/images/grte.jpg",
+    "unitName": "Grand Teton National Park",
+    "unitStates": "WY",
+    "unitType": "NP",
+    "unitUrl": "https://www.nps.gov/grte/index.htm"
   },
   {
     "unitCode": "gumo",
@@ -360,15 +324,6 @@
     "unitUrl": "https://www.nps.gov/kefj/index.htm"
   },
   {
-    "unitCode": "seki",
-    "unitDate": "1940-03-04",
-    "unitImg": "https://parkvisits.com/images/seki0.jpg",
-    "unitName": "Kings Canyon National Park",
-    "unitStates": "CA",
-    "unitType": "NP",
-    "unitUrl": "https://www.nps.gov/seki/index.htm"
-  },
-  {
     "unitCode": "kova",
     "unitDate": "1980-12-02",
     "unitImg": "https://parkvisits.com/images/kova.jpg",
@@ -423,15 +378,6 @@
     "unitUrl": "https://www.nps.gov/mora/index.htm"
   },
   {
-    "unitCode": "npsa",
-    "unitDate": "1988-10-31",
-    "unitImg": "https://parkvisits.com/images/npsa.jpg",
-    "unitName": "National Park of American Samoa",
-    "unitStates": "AS",
-    "unitType": "NP",
-    "unitUrl": "https://www.nps.gov/npsa/index.htm"
-  },
-  {
     "unitCode": "neri",
     "unitDate": "2020-12-27",
     "unitImg": "https://parkvisits.com/images/neri.jpg",
@@ -441,24 +387,6 @@
     "unitUrl": "https://www.nps.gov/neri/index.htm"
   },
   {
-    "unitCode": "bibe",
-    "unitDate": "1944-06-12",
-    "unitImg": "https://parkvisits.com/images/bibe.jpg",
-    "unitName": "Big Bend National Park",
-    "unitStates": "TX",
-    "unitType": "NP",
-    "unitUrl": "https://www.nps.gov/bibe/index.htm"
-  },
-  {
-    "unitCode": "bisc",
-    "unitDate": "1980-06-28",
-    "unitImg": "https://parkvisits.com/images/bisc.jpg",
-    "unitName": "Biscayne National Park",
-    "unitStates": "FL",
-    "unitType": "NP",
-    "unitUrl": "https://www.nps.gov/bisc/index.htm"
-  },
-  {
     "unitCode": "noca",
     "unitDate": "1968-10-02",
     "unitImg": "https://parkvisits.com/images/noca.jpg",
@@ -466,6 +394,15 @@
     "unitStates": "WA",
     "unitType": "NP",
     "unitUrl": "https://www.nps.gov/noca/index.htm"
+  },
+  {
+    "unitCode": "npsa",
+    "unitDate": "1988-10-31",
+    "unitImg": "https://parkvisits.com/images/npsa.jpg",
+    "unitName": "National Park of American Samoa",
+    "unitStates": "AS",
+    "unitType": "NP",
+    "unitUrl": "https://www.nps.gov/npsa/index.htm"
   },
   {
     "unitCode": "olym",
@@ -526,6 +463,15 @@
     "unitDate": "1890-09-25",
     "unitImg": "https://parkvisits.com/images/seki1.jpg",
     "unitName": "Sequoia National Park",
+    "unitStates": "CA",
+    "unitType": "NP",
+    "unitUrl": "https://www.nps.gov/seki/index.htm"
+  },
+  {
+    "unitCode": "seki",
+    "unitDate": "1940-03-04",
+    "unitImg": "https://parkvisits.com/images/seki0.jpg",
+    "unitName": "Kings Canyon National Park",
     "unitStates": "CA",
     "unitType": "NP",
     "unitUrl": "https://www.nps.gov/seki/index.htm"

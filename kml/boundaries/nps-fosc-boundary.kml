@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated 2020-10-27 19:46:35.887760 - by make-unit.py -->
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+  <name>Fort Scott National Historic Site</name>
+    <StyleMap id="stylemap_id1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#style</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#style0</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="style">
+      <LineStyle>
+        <color>ff00ffff</color>
+        <width>2.5</width>
+      </LineStyle>
+      <PolyStyle>
+        <fill>0</fill>
+        <color>ff00ffff</color>
+      </PolyStyle>
+    </Style>
+    <Style id="style0">
+      <LineStyle>
+        <color>ff00ffff</color>
+        <width>2.5</width>
+      </LineStyle>
+      <PolyStyle>
+        <fill>0</fill>
+        <color>ff00ffff</color>
+      </PolyStyle>
+    </Style>
+    <Placemark id="fosc">
+      <name>Fort Scott National Historic Site</name>
+      <styleUrl>#stylemap_id1</styleUrl>
+      <MultiGeometry>
+        <Polygon><outerBoundaryIs><LinearRing><coordinates>-94.704339183102618,37.840153223933697 -94.704842201221609,37.84016422560498 -94.705160212937813,37.84014722735084 -94.706253244597079,37.840877210667564 -94.705879227250804,37.841224199209222 -94.706070232743357,37.841355196193632 -94.70644424342558,37.84161819010049 -94.704788168243212,37.843009143574399 -94.70437615305768,37.843033141266133 -94.703956138290735,37.842992140795666 -94.703560123717565,37.843013138636714 -94.703232111292223,37.843063135911436 -94.702573087508483,37.843055133553705 -94.70261309625468,37.842384152994889 -94.702693110235941,37.841365182595617 -94.703201133752387,37.84089619807898 -94.703720155637299,37.840614208234008 -94.704339183102618,37.840153223933697</coordinates></LinearRing></outerBoundaryIs></Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Document>
+</kml>

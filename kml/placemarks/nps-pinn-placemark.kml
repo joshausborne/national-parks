@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated 2020-10-27 19:46:35.887760 - by make-unit.py -->
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+    <name>Pinnacles National Park</name>
+    <StyleMap id="msn_nps-pinn-placemark-tree">
+        <Pair>
+            <key>normal</key>
+            <styleUrl>#sn_nps-pinn-placemark-tree</styleUrl>
+        </Pair>
+        <Pair>
+            <key>highlight</key>
+            <styleUrl>#sh_nps-pinn-placemark-tree</styleUrl>
+        </Pair>
+    </StyleMap>
+    <Style id="sh_nps-pinn-placemark-tree">
+        <IconStyle>
+            <scale>1.5</scale>
+            <Icon>
+                <href>https://liquidgalaxy.endpoint.com/images/placemarks/nps-placemark-tree.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+        </IconStyle>
+        <LabelStyle>
+            <color>00ffffff</color>
+        </LabelStyle>
+        <ListStyle>
+        </ListStyle>
+    </Style>
+    <Style id="sn_nps-pinn-placemark-tree">
+        <IconStyle>
+            <scale>2.5</scale>
+            <Icon>
+                <href>https://liquidgalaxy.endpoint.com/images/placemarks/nps-placemark-tree.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+        </IconStyle>
+        <LabelStyle>
+            <color>00ffffff</color>
+        </LabelStyle>
+        <ListStyle>
+        </ListStyle>
+    </Style>
+    <Placemark>
+        <name>Pinnacles National Park</name>
+        <LookAt>
+            <latitude>36.475794</latitude>
+            <longitude>-121.153781</longitude>
+            <altitude>0</altitude>
+            <heading>315</heading>
+            <range>2304</range>
+            <tilt>70</tilt>
+            <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_nps-pinn-placemark-tree</styleUrl>
+        <Point>
+            <extrude>1</extrude>
+            <altitudeMode>relativeToGround</altitudeMode>
+            <gx:drawOrder>1</gx:drawOrder>
+            <coordinates>-121.153781,36.475794,250</coordinates>
+        </Point>
+    </Placemark>
+</Document>
+</kml>

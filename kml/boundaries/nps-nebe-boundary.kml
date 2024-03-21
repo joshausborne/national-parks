@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated 2020-10-27 19:46:35.887760 - by make-unit.py -->
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+  <name>New Bedford Whaling National Historical Park</name>
+    <StyleMap id="stylemap_id1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#style</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#style0</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="style">
+      <LineStyle>
+        <color>ff00ffff</color>
+        <width>2.5</width>
+      </LineStyle>
+      <PolyStyle>
+        <fill>0</fill>
+        <color>ff00ffff</color>
+      </PolyStyle>
+    </Style>
+    <Style id="style0">
+      <LineStyle>
+        <color>ff00ffff</color>
+        <width>2.5</width>
+      </LineStyle>
+      <PolyStyle>
+        <fill>0</fill>
+        <color>ff00ffff</color>
+      </PolyStyle>
+    </Style>
+    <Placemark id="nebe">
+      <name>New Bedford Whaling National Historical Park</name>
+      <styleUrl>#stylemap_id1</styleUrl>
+      <MultiGeometry>
+        <Polygon><outerBoundaryIs><LinearRing><coordinates>-70.92554263695219,41.63790058828247,0 -70.92489881474246,41.6343327872964,0 -70.92274796507111,41.63453181896161,0 -70.92264233524944,41.63355757582623,0 -70.92268089014404,41.63336560235557,0 -70.92278055158047,41.63327567082591,0 -70.9229700711619,41.63317671998844,0 -70.92318932498404,41.63306403826131,0 -70.92137072147057,41.63324300878854,0 -70.92132677722924,41.63359150602474,0 -70.921271364099,41.63393954226083,0 -70.92122736993707,41.63432917289206,0 -70.92123806118158,41.63460240705705,0 -70.92132664981696,41.63505812880858,0 -70.92143710332938,41.635762572219,0 -70.92152665383577,41.6360606044548,0 -70.921748115022,41.63677325025947,0 -70.92189211455455,41.63719596199208,0 -70.92203337402354,41.63763561962978,0 -70.92254095378,41.63743450075596,0 -70.92292381354004,41.63732417050863,0 -70.92322227265498,41.63728367631812,0 -70.92356517047961,41.63728149458755,0 -70.92386910635081,41.63731488531472,0 -70.92425345529611,41.63742247654295,0 -70.92554263695219,41.63790058828247,0 </coordinates></LinearRing></outerBoundaryIs></Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Document>
+</kml>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated 2020-10-27 19:46:35.887760 - by make-unit.py -->
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+  <name>Rainbow Bridge National Monument</name>
+    <StyleMap id="stylemap_id1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#style</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#style0</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="style">
+      <LineStyle>
+        <color>ff00ffff</color>
+        <width>2.5</width>
+      </LineStyle>
+      <PolyStyle>
+        <fill>0</fill>
+        <color>ff00ffff</color>
+      </PolyStyle>
+    </Style>
+    <Style id="style0">
+      <LineStyle>
+        <color>ff00ffff</color>
+        <width>2.5</width>
+      </LineStyle>
+      <PolyStyle>
+        <fill>0</fill>
+        <color>ff00ffff</color>
+      </PolyStyle>
+    </Style>
+    <Placemark id="rabr">
+      <name>Rainbow Bridge National Monument</name>
+      <styleUrl>#stylemap_id1</styleUrl>
+      <MultiGeometry>
+        <Polygon><outerBoundaryIs><LinearRing><coordinates>-110.970870780396368,37.080878990952677 -110.97089180954346,37.081689979969951 -110.970892810840397,37.081725979482037 -110.970870809840491,37.081725979661854 -110.961768393868084,37.08166005492064 -110.961681138306574,37.074368153026718 -110.970918558486943,37.074433076488745 -110.97088274207627,37.07976100575825 -110.970870780396368,37.080878990952677</coordinates></LinearRing></outerBoundaryIs></Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Document>
+</kml>

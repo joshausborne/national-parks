@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated 2020-10-27 19:46:35.887760 - by make-unit.py -->
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+  <name>Martin Luther King, Jr. Memorial</name>
+    <StyleMap id="stylemap_id1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#style</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#style0</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="style">
+      <LineStyle>
+        <color>ff00ffff</color>
+        <width>2.5</width>
+      </LineStyle>
+      <PolyStyle>
+        <fill>0</fill>
+        <color>ff00ffff</color>
+      </PolyStyle>
+    </Style>
+    <Style id="style0">
+      <LineStyle>
+        <color>ff00ffff</color>
+        <width>2.5</width>
+      </LineStyle>
+      <PolyStyle>
+        <fill>0</fill>
+        <color>ff00ffff</color>
+      </PolyStyle>
+    </Style>
+    <Placemark id="mlkm">
+      <name>Martin Luther King, Jr. Memorial</name>
+      <styleUrl>#stylemap_id1</styleUrl>
+      <MultiGeometry>
+        <Polygon><outerBoundaryIs><LinearRing><coordinates>-77.04478573788661,38.88671950022552,0 -77.04481246026694,38.88670050951835,0 -77.04481773905216,38.88665381444889,0 -77.04483281410788,38.8865106520422,0 -77.04483455924102,38.88643817854854,0 -77.04483052221421,38.88638208147309,0 -77.04482569553005,38.88627921453141,0 -77.04482655708524,38.88613879483901,0 -77.04483133812438,38.88605435284935,0 -77.04484495764386,38.8859555987014,0 -77.04486662054812,38.88582391442402,0 -77.04488528195779,38.88568272003088,0 -77.04489441707364,38.88551808513937,0 -77.04460373306104,38.88561269244386,0 -77.04445038940131,38.88561726449582,0 -77.04437077162032,38.88573370236452,0 -77.04417432928969,38.88592476486379,0 -77.04396543059923,38.88608290067037,0 -77.04377710610832,38.88619344680993,0 -77.04365080915699,38.88624439580005,0 -77.04347913837894,38.88630296722741,0 -77.04335535526084,38.88633508145926,0 -77.04338522616827,38.88668532191861,0 -77.04388879195403,38.88669079991563,0 -77.04472867242103,38.88671793369713,0 -77.04478573788661,38.88671950022552,0 </coordinates></LinearRing></outerBoundaryIs></Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Document>
+</kml>

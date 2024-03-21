@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated 2020-10-27 19:46:35.887760 - by make-unit.py -->
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+  <name>Federal Hall National Memorial</name>
+    <StyleMap id="stylemap_id1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#style</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#style0</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="style">
+      <LineStyle>
+        <color>ff00ffff</color>
+        <width>2.5</width>
+      </LineStyle>
+      <PolyStyle>
+        <fill>0</fill>
+        <color>ff00ffff</color>
+      </PolyStyle>
+    </Style>
+    <Style id="style0">
+      <LineStyle>
+        <color>ff00ffff</color>
+        <width>2.5</width>
+      </LineStyle>
+      <PolyStyle>
+        <fill>0</fill>
+        <color>ff00ffff</color>
+      </PolyStyle>
+    </Style>
+    <Placemark id="feha">
+      <name>Federal Hall National Memorial</name>
+      <styleUrl>#stylemap_id1</styleUrl>
+      <MultiGeometry>
+        <Polygon><outerBoundaryIs><LinearRing><coordinates>-74.010066683357422,40.706915067492261 -74.010367397788656,40.707068109973953 -74.010360988253368,40.707075381362365 -74.010389054711197,40.707089708324759 -74.009999778410091,40.707531324911493 -74.009984394725535,40.707523500777896 -74.009979609999306,40.70752892879004 -74.009691935873548,40.707382079907504 -74.009699973036632,40.707372962226124 -74.009674512561602,40.707359965363651 -74.010066683357422,40.706915067492261</coordinates></LinearRing></outerBoundaryIs></Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Document>
+</kml>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated 2020-10-27 19:46:35.887760 - by make-unit.py -->
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+  <name>Thomas Edison National Historical Park</name>
+    <StyleMap id="stylemap_id1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#style</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#style0</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="style">
+      <LineStyle>
+        <color>ff00ffff</color>
+        <width>2.5</width>
+      </LineStyle>
+      <PolyStyle>
+        <fill>0</fill>
+        <color>ff00ffff</color>
+      </PolyStyle>
+    </Style>
+    <Style id="style0">
+      <LineStyle>
+        <color>ff00ffff</color>
+        <width>2.5</width>
+      </LineStyle>
+      <PolyStyle>
+        <fill>0</fill>
+        <color>ff00ffff</color>
+      </PolyStyle>
+    </Style>
+    <Placemark id="edis">
+      <name>Thomas Edison National Historical Park</name>
+      <styleUrl>#stylemap_id1</styleUrl>
+      <MultiGeometry>
+        <Polygon><outerBoundaryIs><LinearRing><coordinates>-74.24085423231232,40.78729618185165,0 -74.24102709211917,40.78687052732521,0 -74.24129761676046,40.78666062075406,0 -74.24155067683063,40.78638677081337,0 -74.24165184818413,40.78613440409346,0 -74.24154817487467,40.78581946897179,0 -74.24140972165949,40.78564363218751,0 -74.24099722612164,40.78540550137486,0 -74.24069291166988,40.785214513673,0 -74.24019798147792,40.78498987734852,0 -74.23991936873657,40.78463277037356,0 -74.23979941017311,40.78432357414327,0 -74.23973567691517,40.78410140719818,0 -74.23941225349967,40.78429226728707,0 -74.23912658237852,40.7845507304271,0 -74.23886683060412,40.78485098540729,0 -74.23855495218123,40.78525493978151,0 -74.23831800438727,40.78565745781977,0 -74.23812203516366,40.78591398720021,0 -74.23782677459707,40.78652208157309,0 -74.24085423231232,40.78729618185165,0 </coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates>-74.23514108729236,40.78495051701982,0 -74.23564734765712,40.78406707348566,0 -74.23518397716153,40.78388167127165,0 -74.23506499063988,40.78401426235349,0 -74.23449315753051,40.78376618703716,0 -74.23358246727797,40.78477113218148,0 -74.23397072112245,40.78486030189243,0 -74.2341288972336,40.7846880624835,0 -74.23514108729236,40.78495051701982,0 </coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates>-74.23348723871055,40.78466467818502,0 -74.2342398308723,40.78383624795618,0 -74.23319383281981,40.7832894471367,0 -74.23254719592362,40.78410262167957,0 -74.23348723871055,40.78466467818502,0 </coordinates></LinearRing></outerBoundaryIs></Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Document>
+</kml>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated 2020-10-27 19:46:35.887760 - by make-unit.py -->
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+    <name>Missouri National Recreational River</name>
+    <StyleMap id="msn_nps-mnrr-placemark-canoe">
+        <Pair>
+            <key>normal</key>
+            <styleUrl>#sn_nps-mnrr-placemark-canoe</styleUrl>
+        </Pair>
+        <Pair>
+            <key>highlight</key>
+            <styleUrl>#sh_nps-mnrr-placemark-canoe</styleUrl>
+        </Pair>
+    </StyleMap>
+    <Style id="sh_nps-mnrr-placemark-canoe">
+        <IconStyle>
+            <scale>1.5</scale>
+            <Icon>
+                <href>https://liquidgalaxy.endpoint.com/images/placemarks/nps-placemark-canoe.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+        </IconStyle>
+        <LabelStyle>
+            <color>00ffffff</color>
+        </LabelStyle>
+        <ListStyle>
+        </ListStyle>
+    </Style>
+    <Style id="sn_nps-mnrr-placemark-canoe">
+        <IconStyle>
+            <scale>2.5</scale>
+            <Icon>
+                <href>https://liquidgalaxy.endpoint.com/images/placemarks/nps-placemark-canoe.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+        </IconStyle>
+        <LabelStyle>
+            <color>00ffffff</color>
+        </LabelStyle>
+        <ListStyle>
+        </ListStyle>
+    </Style>
+    <Placemark>
+        <name>Missouri National Recreational River</name>
+        <LookAt>
+            <latitude>42.719623</latitude>
+            <longitude>-96.943145</longitude>
+            <altitude>0</altitude>
+            <heading>-45</heading>
+            <range>90000</range>
+            <tilt>60</tilt>
+            <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_nps-mnrr-placemark-canoe</styleUrl>
+        <Point>
+            <extrude>1</extrude>
+            <altitudeMode>relativeToGround</altitudeMode>
+            <gx:drawOrder>1</gx:drawOrder>
+            <coordinates>-96.943145,42.719623,250</coordinates>
+        </Point>
+    </Placemark>
+</Document>
+</kml>

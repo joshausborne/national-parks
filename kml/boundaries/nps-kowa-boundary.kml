@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated 2020-10-27 19:46:35.887760 - by make-unit.py -->
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+  <name>Korean War Veterans Memorial</name>
+    <StyleMap id="stylemap_id1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#style</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#style0</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="style">
+      <LineStyle>
+        <color>ff00ffff</color>
+        <width>2.5</width>
+      </LineStyle>
+      <PolyStyle>
+        <fill>0</fill>
+        <color>ff00ffff</color>
+      </PolyStyle>
+    </Style>
+    <Style id="style0">
+      <LineStyle>
+        <color>ff00ffff</color>
+        <width>2.5</width>
+      </LineStyle>
+      <PolyStyle>
+        <fill>0</fill>
+        <color>ff00ffff</color>
+      </PolyStyle>
+    </Style>
+    <Placemark id="kowa">
+      <name>Korean War Veterans Memorial</name>
+      <styleUrl>#stylemap_id1</styleUrl>
+      <MultiGeometry>
+        <Polygon><outerBoundaryIs><LinearRing><coordinates>-77.04832202026165,38.88837148894113,0 -77.04845634222441,38.88825208096834,0 -77.04856829054545,38.88806589289423,0 -77.04858754142292,38.88786020570272,0 -77.04844814623459,38.88769559624025,0 -77.04751464075906,38.88769593439972,0 -77.0474723532066,38.8876229279438,0 -77.04740465879517,38.88757787377065,0 -77.04731446542453,38.88755268671535,0 -77.04721989494767,38.88755902038007,0 -77.04712999698178,38.88758926118189,0 -77.04706956807048,38.88765063650368,0 -77.0470452170148,38.88773517820001,0 -77.04706073232065,38.88780680451845,0 -77.04709919402502,38.88786205806545,0 -77.0471504403621,38.88789869659731,0 -77.04722231029909,38.88792462432735,0 -77.04731333960062,38.88792586341607,0 -77.04738834074611,38.88791013345105,0 -77.04743570570872,38.88788141329002,0 -77.04746914520885,38.88784756040447,0 -77.04832202026165,38.88837148894113,0 </coordinates></LinearRing></outerBoundaryIs></Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Document>
+</kml>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated 2020-10-27 19:46:35.887760 - by make-unit.py -->
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+  <name>Harmony Hall</name>
+    <StyleMap id="stylemap_id1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#style</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#style0</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="style">
+      <LineStyle>
+        <color>ff00ffff</color>
+        <width>2.5</width>
+      </LineStyle>
+      <PolyStyle>
+        <fill>0</fill>
+        <color>ff00ffff</color>
+      </PolyStyle>
+    </Style>
+    <Style id="style0">
+      <LineStyle>
+        <color>ff00ffff</color>
+        <width>2.5</width>
+      </LineStyle>
+      <PolyStyle>
+        <fill>0</fill>
+        <color>ff00ffff</color>
+      </PolyStyle>
+    </Style>
+    <Placemark id="haha">
+      <name>Harmony Hall</name>
+      <styleUrl>#stylemap_id1</styleUrl>
+      <MultiGeometry>
+        <Polygon><outerBoundaryIs><LinearRing><coordinates>-77.00561993162037,38.74768290009582,0 -77.00632956657721,38.7472786374537,0 -77.00637032235552,38.74692203951253,0 -77.00570372309564,38.74683325857651,0 -77.00574997442212,38.74612116011043,0 -77.00575776265723,38.74562754028804,0 -77.00569785445784,38.74496869940042,0 -77.00651983483341,38.74412646191443,0 -77.00632630005525,38.74300865494394,0 -77.00420918625916,38.74396957478024,0 -77.00315396145645,38.74357336402555,0 -77.00056393051189,38.74467218198954,0 -77.00111012081673,38.74612047914545,0 -77.00109334598619,38.74688481593062,0 -77.00087017883365,38.74902063141974,0 -77.00548897080219,38.74929956495769,0 -77.00561993162037,38.74768290009582,0 </coordinates></LinearRing></outerBoundaryIs></Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Document>
+</kml>

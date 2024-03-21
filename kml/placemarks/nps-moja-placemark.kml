@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated 2020-10-27 19:46:35.887760 - by make-unit.py -->
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+    <name>Mojave National Preserve</name>
+    <StyleMap id="msn_nps-moja-placemark-tree">
+        <Pair>
+            <key>normal</key>
+            <styleUrl>#sn_nps-moja-placemark-tree</styleUrl>
+        </Pair>
+        <Pair>
+            <key>highlight</key>
+            <styleUrl>#sh_nps-moja-placemark-tree</styleUrl>
+        </Pair>
+    </StyleMap>
+    <Style id="sh_nps-moja-placemark-tree">
+        <IconStyle>
+            <scale>1.5</scale>
+            <Icon>
+                <href>https://liquidgalaxy.endpoint.com/images/placemarks/nps-placemark-tree.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+        </IconStyle>
+        <LabelStyle>
+            <color>00ffffff</color>
+        </LabelStyle>
+        <ListStyle>
+        </ListStyle>
+    </Style>
+    <Style id="sn_nps-moja-placemark-tree">
+        <IconStyle>
+            <scale>2.5</scale>
+            <Icon>
+                <href>https://liquidgalaxy.endpoint.com/images/placemarks/nps-placemark-tree.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+        </IconStyle>
+        <LabelStyle>
+            <color>00ffffff</color>
+        </LabelStyle>
+        <ListStyle>
+        </ListStyle>
+    </Style>
+    <Placemark>
+        <name>Mojave National Preserve</name>
+        <LookAt>
+            <latitude>35.137485</latitude>
+            <longitude>-115.347857</longitude>
+            <altitude>0</altitude>
+            <heading>0</heading>
+            <range>270000</range>
+            <tilt>0</tilt>
+            <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_nps-moja-placemark-tree</styleUrl>
+        <Point>
+            <extrude>1</extrude>
+            <altitudeMode>relativeToGround</altitudeMode>
+            <gx:drawOrder>1</gx:drawOrder>
+            <coordinates>-115.347857,35.137485,250</coordinates>
+        </Point>
+    </Placemark>
+</Document>
+</kml>

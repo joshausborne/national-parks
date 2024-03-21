@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated 2020-10-27 19:46:35.887760 - by make-unit.py -->
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+  <name>Chamizal National Memorial</name>
+    <StyleMap id="stylemap_id1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#style</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#style0</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="style">
+      <LineStyle>
+        <color>ff00ffff</color>
+        <width>2.5</width>
+      </LineStyle>
+      <PolyStyle>
+        <fill>0</fill>
+        <color>ff00ffff</color>
+      </PolyStyle>
+    </Style>
+    <Style id="style0">
+      <LineStyle>
+        <color>ff00ffff</color>
+        <width>2.5</width>
+      </LineStyle>
+      <PolyStyle>
+        <fill>0</fill>
+        <color>ff00ffff</color>
+      </PolyStyle>
+    </Style>
+    <Placemark id="cham">
+      <name>Chamizal National Memorial</name>
+      <styleUrl>#stylemap_id1</styleUrl>
+      <MultiGeometry>
+        <Polygon><outerBoundaryIs><LinearRing><coordinates>-106.451583244985684,31.767381062381517 -106.451788417135319,31.767085681262682 -106.451825655481784,31.766796058636864 -106.451552606592088,31.76559147919285 -106.451797120060078,31.765624649972196 -106.452042806342376,31.765650740009825 -106.452289384583565,31.765669719481135 -106.452536572907846,31.765681566689867 -106.452784088741694,31.765686268092928 -106.453031649136975,31.765683818315964 -106.453278971094448,31.765674220159433 -106.453525771887797,31.765657484595415 -106.453771769386691,31.765633630755026 -106.454016682379688,31.765602685906586 -106.454260230895756,31.765564685424462 -106.454502136524667,31.765519672748553 -106.454742122735325,31.765467699334522 -106.454979915191998,31.765408824595152 -106.455215242068263,31.765343115832138 -106.455447834357727,31.765270648159436 -106.455677426181808,31.76519150441699 -106.456541092848724,31.764863568911668 -106.45803397763828,31.767733369144832 -106.457880755408723,31.767822529249624 -106.454310731431988,31.76938030532197 -106.451197876388235,31.769209478503477 -106.451213786860421,31.768445864894254 -106.451583244985684,31.767381062381517</coordinates></LinearRing></outerBoundaryIs></Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Document>
+</kml>

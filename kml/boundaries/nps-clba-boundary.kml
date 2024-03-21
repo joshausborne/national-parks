@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated 2020-10-27 19:46:35.887760 - by make-unit.py -->
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+  <name>Clara Barton National Historic Site</name>
+    <StyleMap id="stylemap_id1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#style</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#style0</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="style">
+      <LineStyle>
+        <color>ff00ffff</color>
+        <width>2.5</width>
+      </LineStyle>
+      <PolyStyle>
+        <fill>0</fill>
+        <color>ff00ffff</color>
+      </PolyStyle>
+    </Style>
+    <Style id="style0">
+      <LineStyle>
+        <color>ff00ffff</color>
+        <width>2.5</width>
+      </LineStyle>
+      <PolyStyle>
+        <fill>0</fill>
+        <color>ff00ffff</color>
+      </PolyStyle>
+    </Style>
+    <Placemark id="clba">
+      <name>Clara Barton National Historic Site</name>
+      <styleUrl>#stylemap_id1</styleUrl>
+      <MultiGeometry>
+        <Polygon><outerBoundaryIs><LinearRing><coordinates>-77.1407227009135,38.966987589282986 -77.140751017867032,38.966996939653207 -77.140807193017579,38.967024253099893 -77.140875834232133,38.96706750183538 -77.140921891653576,38.967104602018537 -77.140975113878198,38.967159516755679 -77.141397475742153,38.967516429238472 -77.141456658471114,38.967566440577635 -77.141293327889343,38.967801323854417 -77.141061759779049,38.96770391945698 -77.140984554817805,38.967814943060041 -77.140197595290388,38.968946636647374 -77.139551287363119,38.968679450587679 -77.139514753667697,38.968663997627701 -77.139478920622764,38.968647575269927 -77.139443830419339,38.96863020285079 -77.139409524373804,38.968611900825451 -77.139376042879078,38.968592690743499 -77.139343425357097,38.968572595223755 -77.139311710212439,38.968551637927582 -77.139280934787124,38.968529843531023 -77.139251135316584,38.96850723769569 -77.139222346886996,38.968483847038627 -77.139194603394031,38.968459699100919 -77.139343739817036,38.967752501342865 -77.139145202067184,38.96736205104888 -77.139224517075135,38.966958630689717 -77.139862901987982,38.966340563950716 -77.140200225646836,38.966625536545052 -77.140484439027588,38.96659962095827 -77.140835725547333,38.96689331865845 -77.1407227009135,38.966987589282986</coordinates></LinearRing></outerBoundaryIs></Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Document>
+</kml>

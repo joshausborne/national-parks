@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated 2020-10-27 19:46:35.887760 - by make-unit.py -->
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+  <name>African American Civil War Memorial</name>
+    <StyleMap id="stylemap_id1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#style</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#style0</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="style">
+      <LineStyle>
+        <color>ff00ffff</color>
+        <width>2.5</width>
+      </LineStyle>
+      <PolyStyle>
+        <fill>0</fill>
+        <color>ff00ffff</color>
+      </PolyStyle>
+    </Style>
+    <Style id="style0">
+      <LineStyle>
+        <color>ff00ffff</color>
+        <width>2.5</width>
+      </LineStyle>
+      <PolyStyle>
+        <fill>0</fill>
+        <color>ff00ffff</color>
+      </PolyStyle>
+    </Style>
+    <Placemark id="afam">
+      <name>African American Civil War Memorial</name>
+      <styleUrl>#stylemap_id1</styleUrl>
+      <MultiGeometry>
+        <Polygon><outerBoundaryIs><LinearRing><coordinates>-77.02607285877765,38.91654680606131,0 -77.02607210569651,38.91651397434266,0 -77.02606621251779,38.91649691850224,0 -77.02605668480069,38.9164813381512,0 -77.02604178464486,38.91647154123153,0 -77.02602322635076,38.91646324598242,0 -77.0260010569381,38.91645788274814,0 -77.02597720062035,38.91645672877414,0 -77.02595335060943,38.91645703515264,0 -77.02592584411228,38.9164587966566,0 -77.02590212899264,38.91646624555878,0 -77.02581896174027,38.91660034071363,0 -77.02588752280306,38.91662649832102,0 -77.02598927910958,38.91666358137219,0 -77.02606171459824,38.91662261752653,0 -77.02607285877765,38.91654680606131,0 </coordinates></LinearRing></outerBoundaryIs></Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Document>
+</kml>

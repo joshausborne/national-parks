@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated 2020-10-27 19:46:35.887760 - by make-unit.py -->
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+    <name>Glen Echo Park</name>
+    <StyleMap id="msn_nps-glec-placemark-tree">
+        <Pair>
+            <key>normal</key>
+            <styleUrl>#sn_nps-glec-placemark-tree</styleUrl>
+        </Pair>
+        <Pair>
+            <key>highlight</key>
+            <styleUrl>#sh_nps-glec-placemark-tree</styleUrl>
+        </Pair>
+    </StyleMap>
+    <Style id="sh_nps-glec-placemark-tree">
+        <IconStyle>
+            <scale>1.5</scale>
+            <Icon>
+                <href>https://liquidgalaxy.endpoint.com/images/placemarks/nps-placemark-tree.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+        </IconStyle>
+        <LabelStyle>
+            <color>00ffffff</color>
+        </LabelStyle>
+        <ListStyle>
+        </ListStyle>
+    </Style>
+    <Style id="sn_nps-glec-placemark-tree">
+        <IconStyle>
+            <scale>2.5</scale>
+            <Icon>
+                <href>https://liquidgalaxy.endpoint.com/images/placemarks/nps-placemark-tree.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+        </IconStyle>
+        <LabelStyle>
+            <color>00ffffff</color>
+        </LabelStyle>
+        <ListStyle>
+        </ListStyle>
+    </Style>
+    <Placemark>
+        <name>Glen Echo Park</name>
+        <LookAt>
+            <latitude>38.966737</latitude>
+            <longitude>-77.139091</longitude>
+            <altitude>0</altitude>
+            <heading>111</heading>
+            <range>2500</range>
+            <tilt>0</tilt>
+            <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_nps-glec-placemark-tree</styleUrl>
+        <Point>
+            <extrude>1</extrude>
+            <altitudeMode>relativeToGround</altitudeMode>
+            <gx:drawOrder>1</gx:drawOrder>
+            <coordinates>-77.139091,38.966737,250</coordinates>
+        </Point>
+    </Placemark>
+</Document>
+</kml>

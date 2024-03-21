@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated 2020-10-27 19:46:35.887760 - by make-unit.py -->
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+    <name>Roger Williams National Memorial</name>
+    <StyleMap id="msn_nps-rowi-placemark-star">
+        <Pair>
+            <key>normal</key>
+            <styleUrl>#sn_nps-rowi-placemark-star</styleUrl>
+        </Pair>
+        <Pair>
+            <key>highlight</key>
+            <styleUrl>#sh_nps-rowi-placemark-star</styleUrl>
+        </Pair>
+    </StyleMap>
+    <Style id="sh_nps-rowi-placemark-star">
+        <IconStyle>
+            <scale>1.5</scale>
+            <Icon>
+                <href>https://liquidgalaxy.endpoint.com/images/placemarks/nps-placemark-star.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+        </IconStyle>
+        <LabelStyle>
+            <color>00ffffff</color>
+        </LabelStyle>
+        <ListStyle>
+        </ListStyle>
+    </Style>
+    <Style id="sn_nps-rowi-placemark-star">
+        <IconStyle>
+            <scale>2.5</scale>
+            <Icon>
+                <href>https://liquidgalaxy.endpoint.com/images/placemarks/nps-placemark-star.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+        </IconStyle>
+        <LabelStyle>
+            <color>00ffffff</color>
+        </LabelStyle>
+        <ListStyle>
+        </ListStyle>
+    </Style>
+    <Placemark>
+        <name>Roger Williams National Memorial</name>
+        <LookAt>
+            <latitude>41.831352</latitude>
+            <longitude>-71.410682</longitude>
+            <altitude>0</altitude>
+            <heading>-135</heading>
+            <range>500</range>
+            <tilt>45</tilt>
+            <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_nps-rowi-placemark-star</styleUrl>
+        <Point>
+            <extrude>1</extrude>
+            <altitudeMode>relativeToGround</altitudeMode>
+            <gx:drawOrder>1</gx:drawOrder>
+            <coordinates>-71.410682,41.831352,250</coordinates>
+        </Point>
+    </Placemark>
+</Document>
+</kml>

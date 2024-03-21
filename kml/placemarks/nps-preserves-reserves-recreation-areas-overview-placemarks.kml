@@ -1,0 +1,1919 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>alca placemark</name>
+	<StyleMap id="msn_nps-alca-placemark-building">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_nps-alca-placemark-building</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_nps-alca-placemark-building</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_nps-alca-placemark-building">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>https://liquidgalaxy.endpoint.com/images/placemarks/nps-placemark-building.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sn_nps-alca-placemark-building">
+		<IconStyle>
+			<scale>2.5</scale>
+			<Icon>
+				<href>https://liquidgalaxy.endpoint.com/images/placemarks/nps-placemark-building.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Placemark>
+		<name>alca placemark</name>
+		<LookAt>
+			<latitude>37.82666667</latitude>
+			<longitude>-122.421379</longitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<range>600</range>
+			<tilt>63</tilt>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_nps-alca-placemark-building</styleUrl>
+		<Point>
+                        <extrude>1</extrude>
+                        <altitudeMode>relativeToGround</altitudeMode>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>-122.421379,37.82666667,500</coordinates>
+		</Point>
+	</Placemark>
+	<name>amis placemark</name>
+	<StyleMap id="msn_nps-amis-placemark-canoe">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_nps-amis-placemark-canoe</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_nps-amis-placemark-canoe</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_nps-amis-placemark-canoe">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>https://liquidgalaxy.endpoint.com/images/placemarks/nps-placemark-canoe.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sn_nps-amis-placemark-canoe">
+		<IconStyle>
+			<scale>2.5</scale>
+			<Icon>
+				<href>https://liquidgalaxy.endpoint.com/images/placemarks/nps-placemark-canoe.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Placemark>
+		<name>amis placemark</name>
+		<LookAt>
+			<latitude>29.502852</latitude>
+			<longitude>-101.032340</longitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<range>50000</range>
+			<tilt>0</tilt>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_nps-amis-placemark-canoe</styleUrl>
+		<Point>
+                        <extrude>1</extrude>
+                        <altitudeMode>relativeToGround</altitudeMode>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>-101.032340,29.502852,500</coordinates>
+		</Point>
+	</Placemark>
+	<name>bela placemark</name>
+	<StyleMap id="msn_nps-bela-placemark-tree">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_nps-bela-placemark-tree</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_nps-bela-placemark-tree</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_nps-bela-placemark-tree">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>https://liquidgalaxy.endpoint.com/images/placemarks/nps-placemark-tree.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sn_nps-bela-placemark-tree">
+		<IconStyle>
+			<scale>2.5</scale>
+			<Icon>
+				<href>https://liquidgalaxy.endpoint.com/images/placemarks/nps-placemark-tree.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Placemark>
+		<name>bela placemark</name>
+		<LookAt>
+			<latitude>65.83333333</latitude>
+			<longitude>-163.8333333</longitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<range>7654</range>
+			<tilt>0</tilt>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_nps-bela-placemark-tree</styleUrl>
+		<Point>
+                        <extrude>1</extrude>
+                        <altitudeMode>relativeToGround</altitudeMode>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>-163.8333333,65.83333333,500</coordinates>
+		</Point>
+	</Placemark>
+	<name>bica placemark</name>
+	<StyleMap id="msn_nps-bica-placemark-canoe">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_nps-bica-placemark-canoe</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_nps-bica-placemark-canoe</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_nps-bica-placemark-canoe">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>https://liquidgalaxy.endpoint.com/images/placemarks/nps-placemark-canoe.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sn_nps-bica-placemark-canoe">
+		<IconStyle>
+			<scale>2.5</scale>
+			<Icon>
+				<href>https://liquidgalaxy.endpoint.com/images/placemarks/nps-placemark-canoe.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Placemark>
+		<name>bica placemark</name>
+		<LookAt>
+			<latitude>45.006442</latitude>
+			<longitude>-108.250731</longitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<range>50000</range>
+			<tilt>0</tilt>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_nps-bica-placemark-canoe</styleUrl>
+		<Point>
+                        <extrude>1</extrude>
+                        <altitudeMode>relativeToGround</altitudeMode>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>-108.250731,45.006442,500</coordinates>
+		</Point>
+	</Placemark>
+	<name>bicy placemark</name>
+	<StyleMap id="msn_nps-bicy-placemark-tree">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_nps-bicy-placemark-tree</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_nps-bicy-placemark-tree</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_nps-bicy-placemark-tree">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>https://liquidgalaxy.endpoint.com/images/placemarks/nps-placemark-tree.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sn_nps-bicy-placemark-tree">
+		<IconStyle>
+			<scale>2.5</scale>
+			<Icon>
+				<href>https://liquidgalaxy.endpoint.com/images/placemarks/nps-placemark-tree.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Placemark>
+		<name>bicy placemark</name>
+		<LookAt>
+			<latitude>25.917329</latitude>
+			<longitude>-80.993881</longitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<range>250000</range>
+			<tilt>0</tilt>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_nps-bicy-placemark-tree</styleUrl>
+		<Point>
+                        <extrude>1</extrude>
+                        <altitudeMode>relativeToGround</altitudeMode>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>-80.993881,25.917329,500</coordinates>
+		</Point>
+	</Placemark>
+	<name>bith placemark</name>
+	<StyleMap id="msn_nps-bith-placemark-tree">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_nps-bith-placemark-tree</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_nps-bith-placemark-tree</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_nps-bith-placemark-tree">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>https://liquidgalaxy.endpoint.com/images/placemarks/nps-placemark-tree.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sn_nps-bith-placemark-tree">
+		<IconStyle>
+			<scale>2.5</scale>
+			<Icon>
+				<href>https://liquidgalaxy.endpoint.com/images/placemarks/nps-placemark-tree.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Placemark>
+		<name>bith placemark</name>
+		<LookAt>
+			<latitude>30.121357</latitude>
+			<longitude>-94.032117</longitude>
+			<altitude>0</altitude>
+			<heading>-35</heading>
+			<range>100000</range>
+			<tilt>55</tilt>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_nps-bith-placemark-tree</styleUrl>
+		<Point>
+                        <extrude>1</extrude>
+                        <altitudeMode>relativeToGround</altitudeMode>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>-94.032117,30.121357,500</coordinates>
+		</Point>
+	</Placemark>
+	<name>boha placemark</name>
+	<StyleMap id="msn_nps-boha-placemark-canoe">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_nps-boha-placemark-canoe</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_nps-boha-placemark-canoe</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_nps-boha-placemark-canoe">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>https://liquidgalaxy.endpoint.com/images/placemarks/nps-placemark-canoe.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sn_nps-boha-placemark-canoe">
+		<IconStyle>
+			<scale>2.5</scale>
+			<Icon>
+				<href>https://liquidgalaxy.endpoint.com/images/placemarks/nps-placemark-canoe.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Placemark>
+		<name>boha placemark</name>
+		<LookAt>
+			<latitude>42.292379</latitude>
+			<longitude>-70.938052</longitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<range>10000</range>
+			<tilt>0</tilt>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_nps-boha-placemark-canoe</styleUrl>
+		<Point>
+                        <extrude>1</extrude>
+                        <altitudeMode>relativeToGround</altitudeMode>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>-70.938052,42.292379,500</coordinates>
+		</Point>
+	</Placemark>
+	<name>chat placemark</name>
+	<StyleMap id="msn_nps-chat-placemark-canoe">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_nps-chat-placemark-canoe</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_nps-chat-placemark-canoe</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_nps-chat-placemark-canoe">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>https://liquidgalaxy.endpoint.com/images/placemarks/nps-placemark-canoe.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sn_nps-chat-placemark-canoe">
+		<IconStyle>
+			<scale>2.5</scale>
+			<Icon>
+				<href>https://liquidgalaxy.endpoint.com/images/placemarks/nps-placemark-canoe.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Placemark>
+		<name>chat placemark</name>
+		<LookAt>
+			<latitude>33.980282</latitude>
+			<longitude>-84.263447</longitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<range>20000</range>
+			<tilt>0</tilt>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_nps-chat-placemark-canoe</styleUrl>
+		<Point>
+                        <extrude>1</extrude>
+                        <altitudeMode>relativeToGround</altitudeMode>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>-84.263447,33.980282,500</coordinates>
+		</Point>
+	</Placemark>
+	<name>chic placemark</name>
+	<StyleMap id="msn_nps-chic-placemark-canoe">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_nps-chic-placemark-canoe</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_nps-chic-placemark-canoe</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_nps-chic-placemark-canoe">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>https://liquidgalaxy.endpoint.com/images/placemarks/nps-placemark-canoe.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sn_nps-chic-placemark-canoe">
+		<IconStyle>
+			<scale>2.5</scale>
+			<Icon>
+				<href>https://liquidgalaxy.endpoint.com/images/placemarks/nps-placemark-canoe.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Placemark>
+		<name>chic placemark</name>
+		<LookAt>
+			<latitude>34.478715</latitude>
+			<longitude>-97.016017</longitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<range>37000</range>
+			<tilt>0</tilt>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_nps-chic-placemark-canoe</styleUrl>
+		<Point>
+                        <extrude>1</extrude>
+                        <altitudeMode>relativeToGround</altitudeMode>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>-97.016017,34.478715,500</coordinates>
+		</Point>
+	</Placemark>
+	<name>ciro placemark</name>
+	<StyleMap id="msn_nps-ciro-placemark-tree">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_nps-ciro-placemark-tree</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_nps-ciro-placemark-tree</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_nps-ciro-placemark-tree">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>https://liquidgalaxy.endpoint.com/images/placemarks/nps-placemark-tree.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sn_nps-ciro-placemark-tree">
+		<IconStyle>
+			<scale>2.5</scale>
+			<Icon>
+				<href>https://liquidgalaxy.endpoint.com/images/placemarks/nps-placemark-tree.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Placemark>
+		<name>ciro placemark</name>
+		<LookAt>
+			<latitude>42.0760257</latitude>
+			<longitude>-113.7016761</longitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<range>30000</range>
+			<tilt>0</tilt>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_nps-ciro-placemark-tree</styleUrl>
+		<Point>
+                        <extrude>1</extrude>
+                        <altitudeMode>relativeToGround</altitudeMode>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>-113.7016761,42.0760257,500</coordinates>
+		</Point>
+	</Placemark>
+	<name>cure placemark</name>
+	<StyleMap id="msn_nps-cure-placemark-canoe">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_nps-cure-placemark-canoe</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_nps-cure-placemark-canoe</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_nps-cure-placemark-canoe">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>https://liquidgalaxy.endpoint.com/images/placemarks/nps-placemark-canoe.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sn_nps-cure-placemark-canoe">
+		<IconStyle>
+			<scale>2.5</scale>
+			<Icon>
+				<href>https://liquidgalaxy.endpoint.com/images/placemarks/nps-placemark-canoe.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Placemark>
+		<name>cure placemark</name>
+		<LookAt>
+			<latitude>38.457262</latitude>
+			<longitude>-107.299564</longitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<range>10000</range>
+			<tilt>0</tilt>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_nps-cure-placemark-canoe</styleUrl>
+		<Point>
+                        <extrude>1</extrude>
+                        <altitudeMode>relativeToGround</altitudeMode>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>-107.299564,38.457262,500</coordinates>
+		</Point>
+	</Placemark>
+	<name>dewa placemark</name>
+	<StyleMap id="msn_nps-dewa-placemark-canoe">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_nps-dewa-placemark-canoe</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_nps-dewa-placemark-canoe</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_nps-dewa-placemark-canoe">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>https://liquidgalaxy.endpoint.com/images/placemarks/nps-placemark-canoe.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sn_nps-dewa-placemark-canoe">
+		<IconStyle>
+			<scale>2.5</scale>
+			<Icon>
+				<href>https://liquidgalaxy.endpoint.com/images/placemarks/nps-placemark-canoe.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Placemark>
+		<name>dewa placemark</name>
+		<LookAt>
+			<latitude>41.152805</latitude>
+			<longitude>-74.880085</longitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<range>100000</range>
+			<tilt>0</tilt>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_nps-dewa-placemark-canoe</styleUrl>
+		<Point>
+                        <extrude>1</extrude>
+                        <altitudeMode>relativeToGround</altitudeMode>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>-74.880085,41.152805,500</coordinates>
+		</Point>
+	</Placemark>
+	<name>ebla placemark</name>
+	<StyleMap id="msn_nps-ebla-placemark-tree">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_nps-ebla-placemark-tree</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_nps-ebla-placemark-tree</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_nps-ebla-placemark-tree">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>https://liquidgalaxy.endpoint.com/images/placemarks/nps-placemark-tree.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sn_nps-ebla-placemark-tree">
+		<IconStyle>
+			<scale>2.5</scale>
+			<Icon>
+				<href>https://liquidgalaxy.endpoint.com/images/placemarks/nps-placemark-tree.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Placemark>
+		<name>ebla placemark</name>
+		<LookAt>
+			<latitude>48.206137</latitude>
+			<longitude>-122.673266</longitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<range>35000</range>
+			<tilt>0</tilt>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_nps-ebla-placemark-tree</styleUrl>
+		<Point>
+                        <extrude>1</extrude>
+                        <altitudeMode>relativeToGround</altitudeMode>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>-122.673266,48.206137,500</coordinates>
+		</Point>
+	</Placemark>
+	<name>gari placemark</name>
+	<StyleMap id="msn_nps-gari-placemark-canoe">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_nps-gari-placemark-canoe</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_nps-gari-placemark-canoe</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_nps-gari-placemark-canoe">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>https://liquidgalaxy.endpoint.com/images/placemarks/nps-placemark-canoe.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sn_nps-gari-placemark-canoe">
+		<IconStyle>
+			<scale>2.5</scale>
+			<Icon>
+				<href>https://liquidgalaxy.endpoint.com/images/placemarks/nps-placemark-canoe.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Placemark>
+		<name>gari placemark</name>
+		<LookAt>
+			<latitude>38.199319</latitude>
+			<longitude>-81.000763</longitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<range>45000</range>
+			<tilt>0</tilt>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_nps-gari-placemark-canoe</styleUrl>
+		<Point>
+                        <extrude>1</extrude>
+                        <altitudeMode>relativeToGround</altitudeMode>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>-81.000763,38.199319,500</coordinates>
+		</Point>
+	</Placemark>
+	<name>gate placemark</name>
+	<StyleMap id="msn_nps-gate-placemark-canoe">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_nps-gate-placemark-canoe</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_nps-gate-placemark-canoe</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_nps-gate-placemark-canoe">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>https://liquidgalaxy.endpoint.com/images/placemarks/nps-placemark-canoe.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sn_nps-gate-placemark-canoe">
+		<IconStyle>
+			<scale>2.5</scale>
+			<Icon>
+				<href>https://liquidgalaxy.endpoint.com/images/placemarks/nps-placemark-canoe.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Placemark>
+		<name>gate placemark</name>
+		<LookAt>
+			<latitude>40.454</latitude>
+			<longitude>-73.99699</longitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<range>7654</range>
+			<tilt>0</tilt>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_nps-gate-placemark-canoe</styleUrl>
+		<Point>
+                        <extrude>1</extrude>
+                        <altitudeMode>relativeToGround</altitudeMode>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>-73.99699,40.454,500</coordinates>
+		</Point>
+	</Placemark>
+	<name>glca placemark</name>
+	<StyleMap id="msn_nps-glca-placemark-canoe">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_nps-glca-placemark-canoe</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_nps-glca-placemark-canoe</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_nps-glca-placemark-canoe">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>https://liquidgalaxy.endpoint.com/images/placemarks/nps-placemark-canoe.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sn_nps-glca-placemark-canoe">
+		<IconStyle>
+			<scale>2.5</scale>
+			<Icon>
+				<href>https://liquidgalaxy.endpoint.com/images/placemarks/nps-placemark-canoe.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Placemark>
+		<name>glca placemark</name>
+		<LookAt>
+			<latitude>37.256667</latitude>
+			<longitude>-110.877071</longitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<range>500000</range>
+			<tilt>0</tilt>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_nps-glca-placemark-canoe</styleUrl>
+		<Point>
+                        <extrude>1</extrude>
+                        <altitudeMode>relativeToGround</altitudeMode>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>-110.877071,37.256667,500</coordinates>
+		</Point>
+	</Placemark>
+	<name>goga placemark</name>
+	<StyleMap id="msn_nps-goga-placemark-canoe">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_nps-goga-placemark-canoe</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_nps-goga-placemark-canoe</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_nps-goga-placemark-canoe">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>https://liquidgalaxy.endpoint.com/images/placemarks/nps-placemark-canoe.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sn_nps-goga-placemark-canoe">
+		<IconStyle>
+			<scale>2.5</scale>
+			<Icon>
+				<href>https://liquidgalaxy.endpoint.com/images/placemarks/nps-placemark-canoe.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Placemark>
+		<name>goga placemark</name>
+		<LookAt>
+			<latitude>37.811641</latitude>
+			<longitude>-122.475492</longitude>
+			<altitude>0</altitude>
+			<heading>-54</heading>
+			<range>35000</range>
+			<tilt>58</tilt>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_nps-goga-placemark-canoe</styleUrl>
+		<Point>
+                        <extrude>1</extrude>
+                        <altitudeMode>relativeToGround</altitudeMode>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>-122.475492,37.811641,500</coordinates>
+		</Point>
+	</Placemark>
+	<name>lach placemark</name>
+	<StyleMap id="msn_nps-lach-placemark-canoe">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_nps-lach-placemark-canoe</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_nps-lach-placemark-canoe</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_nps-lach-placemark-canoe">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>https://liquidgalaxy.endpoint.com/images/placemarks/nps-placemark-canoe.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sn_nps-lach-placemark-canoe">
+		<IconStyle>
+			<scale>2.5</scale>
+			<Icon>
+				<href>https://liquidgalaxy.endpoint.com/images/placemarks/nps-placemark-canoe.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Placemark>
+		<name>lach placemark</name>
+		<LookAt>
+			<latitude>48.345221</latitude>
+			<longitude>-120.691607</longitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<range>65000</range>
+			<tilt>0</tilt>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_nps-lach-placemark-canoe</styleUrl>
+		<Point>
+                        <extrude>1</extrude>
+                        <altitudeMode>relativeToGround</altitudeMode>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>-120.691607,48.345221,500</coordinates>
+		</Point>
+	</Placemark>
+	<name>lake placemark</name>
+	<StyleMap id="msn_nps-lake-placemark-canoe">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_nps-lake-placemark-canoe</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_nps-lake-placemark-canoe</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_nps-lake-placemark-canoe">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>https://liquidgalaxy.endpoint.com/images/placemarks/nps-placemark-canoe.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sn_nps-lake-placemark-canoe">
+		<IconStyle>
+			<scale>2.5</scale>
+			<Icon>
+				<href>https://liquidgalaxy.endpoint.com/images/placemarks/nps-placemark-canoe.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Placemark>
+		<name>lake placemark</name>
+		<LookAt>
+			<latitude>35.846717</latitude>
+			<longitude>-114.477696</longitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<range>270000</range>
+			<tilt>0</tilt>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_nps-lake-placemark-canoe</styleUrl>
+		<Point>
+                        <extrude>1</extrude>
+                        <altitudeMode>relativeToGround</altitudeMode>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>-114.477696,35.846717,500</coordinates>
+		</Point>
+	</Placemark>
+	<name>lamr placemark</name>
+	<StyleMap id="msn_nps-lamr-placemark-canoe">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_nps-lamr-placemark-canoe</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_nps-lamr-placemark-canoe</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_nps-lamr-placemark-canoe">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>https://liquidgalaxy.endpoint.com/images/placemarks/nps-placemark-canoe.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sn_nps-lamr-placemark-canoe">
+		<IconStyle>
+			<scale>2.5</scale>
+			<Icon>
+				<href>https://liquidgalaxy.endpoint.com/images/placemarks/nps-placemark-canoe.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Placemark>
+		<name>lamr placemark</name>
+		<LookAt>
+			<latitude>35.610785</latitude>
+			<longitude>-101.657766</longitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<range>70000</range>
+			<tilt>0</tilt>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_nps-lamr-placemark-canoe</styleUrl>
+		<Point>
+                        <extrude>1</extrude>
+                        <altitudeMode>relativeToGround</altitudeMode>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>-101.657766,35.610785,500</coordinates>
+		</Point>
+	</Placemark>
+	<name>laro placemark</name>
+	<StyleMap id="msn_nps-laro-placemark-canoe">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_nps-laro-placemark-canoe</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_nps-laro-placemark-canoe</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_nps-laro-placemark-canoe">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>https://liquidgalaxy.endpoint.com/images/placemarks/nps-placemark-canoe.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sn_nps-laro-placemark-canoe">
+		<IconStyle>
+			<scale>2.5</scale>
+			<Icon>
+				<href>https://liquidgalaxy.endpoint.com/images/placemarks/nps-placemark-canoe.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Placemark>
+		<name>laro placemark</name>
+		<LookAt>
+			<latitude>48.107472</latitude>
+			<longitude>-118.242351</longitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<range>270000</range>
+			<tilt>0</tilt>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_nps-laro-placemark-canoe</styleUrl>
+		<Point>
+                        <extrude>1</extrude>
+                        <altitudeMode>relativeToGround</altitudeMode>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>-118.242351,48.107472,500</coordinates>
+		</Point>
+	</Placemark>
+	<name>liri placemark</name>
+	<StyleMap id="msn_nps-liri-placemark-tree">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_nps-liri-placemark-tree</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_nps-liri-placemark-tree</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_nps-liri-placemark-tree">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>https://liquidgalaxy.endpoint.com/images/placemarks/nps-placemark-tree.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sn_nps-liri-placemark-tree">
+		<IconStyle>
+			<scale>2.5</scale>
+			<Icon>
+				<href>https://liquidgalaxy.endpoint.com/images/placemarks/nps-placemark-tree.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Placemark>
+		<name>liri placemark</name>
+		<LookAt>
+			<latitude>34.405360</latitude>
+			<longitude>-85.613123</longitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<range>55000</range>
+			<tilt>0</tilt>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_nps-liri-placemark-tree</styleUrl>
+		<Point>
+                        <extrude>1</extrude>
+                        <altitudeMode>relativeToGround</altitudeMode>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>-85.613123,34.405360,500</coordinates>
+		</Point>
+	</Placemark>
+	<name>moja placemark</name>
+	<StyleMap id="msn_nps-moja-placemark-tree">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_nps-moja-placemark-tree</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_nps-moja-placemark-tree</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_nps-moja-placemark-tree">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>https://liquidgalaxy.endpoint.com/images/placemarks/nps-placemark-tree.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sn_nps-moja-placemark-tree">
+		<IconStyle>
+			<scale>2.5</scale>
+			<Icon>
+				<href>https://liquidgalaxy.endpoint.com/images/placemarks/nps-placemark-tree.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Placemark>
+		<name>moja placemark</name>
+		<LookAt>
+			<latitude>35.137485</latitude>
+			<longitude>-115.347857</longitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<range>270000</range>
+			<tilt>0</tilt>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_nps-moja-placemark-tree</styleUrl>
+		<Point>
+                        <extrude>1</extrude>
+                        <altitudeMode>relativeToGround</altitudeMode>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>-115.347857,35.137485,500</coordinates>
+		</Point>
+	</Placemark>
+	<name>noat placemark</name>
+	<StyleMap id="msn_nps-noat-placemark-tree">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_nps-noat-placemark-tree</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_nps-noat-placemark-tree</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_nps-noat-placemark-tree">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>https://liquidgalaxy.endpoint.com/images/placemarks/nps-placemark-tree.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sn_nps-noat-placemark-tree">
+		<IconStyle>
+			<scale>2.5</scale>
+			<Icon>
+				<href>https://liquidgalaxy.endpoint.com/images/placemarks/nps-placemark-tree.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Placemark>
+		<name>noat placemark</name>
+		<LookAt>
+			<latitude>68</latitude>
+			<longitude>-158.5</longitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<range>750000</range>
+			<tilt>0</tilt>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_nps-noat-placemark-tree</styleUrl>
+		<Point>
+                        <extrude>1</extrude>
+                        <altitudeMode>relativeToGround</altitudeMode>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>-158.5,68,500</coordinates>
+		</Point>
+	</Placemark>
+	<name>pine placemark</name>
+	<StyleMap id="msn_nps-pine-placemark-tree">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_nps-pine-placemark-tree</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_nps-pine-placemark-tree</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_nps-pine-placemark-tree">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>https://liquidgalaxy.endpoint.com/images/placemarks/nps-placemark-tree.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sn_nps-pine-placemark-tree">
+		<IconStyle>
+			<scale>2.5</scale>
+			<Icon>
+				<href>https://liquidgalaxy.endpoint.com/images/placemarks/nps-placemark-tree.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Placemark>
+		<name>pine placemark</name>
+		<LookAt>
+			<latitude>39.660569</latitude>
+			<longitude>-74.569212</longitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<range>250000</range>
+			<tilt>0</tilt>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_nps-pine-placemark-tree</styleUrl>
+		<Point>
+                        <extrude>1</extrude>
+                        <altitudeMode>relativeToGround</altitudeMode>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>-74.569212,39.660569,500</coordinates>
+		</Point>
+	</Placemark>
+	<name>prsf placemark</name>
+	<StyleMap id="msn_nps-prsf-placemark-building">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_nps-prsf-placemark-building</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_nps-prsf-placemark-building</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_nps-prsf-placemark-building">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>https://liquidgalaxy.endpoint.com/images/placemarks/nps-placemark-building.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sn_nps-prsf-placemark-building">
+		<IconStyle>
+			<scale>2.5</scale>
+			<Icon>
+				<href>https://liquidgalaxy.endpoint.com/images/placemarks/nps-placemark-building.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Placemark>
+		<name>prsf placemark</name>
+		<LookAt>
+			<latitude>37.796180</latitude>
+			<longitude>-122.464784</longitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<range>8000</range>
+			<tilt>41</tilt>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_nps-prsf-placemark-building</styleUrl>
+		<Point>
+                        <extrude>1</extrude>
+                        <altitudeMode>relativeToGround</altitudeMode>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>-122.464784,37.796180,500</coordinates>
+		</Point>
+	</Placemark>
+	<name>rola placemark</name>
+	<StyleMap id="msn_nps-rola-placemark-canoe">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_nps-rola-placemark-canoe</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_nps-rola-placemark-canoe</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_nps-rola-placemark-canoe">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>https://liquidgalaxy.endpoint.com/images/placemarks/nps-placemark-canoe.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sn_nps-rola-placemark-canoe">
+		<IconStyle>
+			<scale>2.5</scale>
+			<Icon>
+				<href>https://liquidgalaxy.endpoint.com/images/placemarks/nps-placemark-canoe.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Placemark>
+		<name>rola placemark</name>
+		<LookAt>
+			<latitude>48.736172</latitude>
+			<longitude>-121.238253</longitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<range>121000</range>
+			<tilt>0</tilt>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_nps-rola-placemark-canoe</styleUrl>
+		<Point>
+                        <extrude>1</extrude>
+                        <altitudeMode>relativeToGround</altitudeMode>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>-121.238253,48.736172,500</coordinates>
+		</Point>
+	</Placemark>
+	<name>samo placemark</name>
+	<StyleMap id="msn_nps-samo-placemark-canoe">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_nps-samo-placemark-canoe</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_nps-samo-placemark-canoe</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_nps-samo-placemark-canoe">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>https://liquidgalaxy.endpoint.com/images/placemarks/nps-placemark-canoe.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sn_nps-samo-placemark-canoe">
+		<IconStyle>
+			<scale>2.5</scale>
+			<Icon>
+				<href>https://liquidgalaxy.endpoint.com/images/placemarks/nps-placemark-canoe.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Placemark>
+		<name>samo placemark</name>
+		<LookAt>
+			<latitude>34.106771</latitude>
+			<longitude>-118.724527</longitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<range>100000</range>
+			<tilt>0</tilt>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_nps-samo-placemark-canoe</styleUrl>
+		<Point>
+                        <extrude>1</extrude>
+                        <altitudeMode>relativeToGround</altitudeMode>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>-118.724527,34.106771,500</coordinates>
+		</Point>
+	</Placemark>
+	<name>tapr placemark</name>
+	<StyleMap id="msn_nps-tapr-placemark-tree">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_nps-tapr-placemark-tree</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_nps-tapr-placemark-tree</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_nps-tapr-placemark-tree">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>https://liquidgalaxy.endpoint.com/images/placemarks/nps-placemark-tree.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sn_nps-tapr-placemark-tree">
+		<IconStyle>
+			<scale>2.5</scale>
+			<Icon>
+				<href>https://liquidgalaxy.endpoint.com/images/placemarks/nps-placemark-tree.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Placemark>
+		<name>tapr placemark</name>
+		<LookAt>
+			<latitude>38.428108</latitude>
+			<longitude>-96.562540</longitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<range>25000</range>
+			<tilt>0</tilt>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_nps-tapr-placemark-tree</styleUrl>
+		<Point>
+                        <extrude>1</extrude>
+                        <altitudeMode>relativeToGround</altitudeMode>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>-96.562540,38.428108,500</coordinates>
+		</Point>
+	</Placemark>
+	<name>timu placemark</name>
+	<StyleMap id="msn_nps-timu-placemark-tree">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_nps-timu-placemark-tree</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_nps-timu-placemark-tree</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_nps-timu-placemark-tree">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>https://liquidgalaxy.endpoint.com/images/placemarks/nps-placemark-tree.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sn_nps-timu-placemark-tree">
+		<IconStyle>
+			<scale>2.5</scale>
+			<Icon>
+				<href>https://liquidgalaxy.endpoint.com/images/placemarks/nps-placemark-tree.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Placemark>
+		<name>timu placemark</name>
+		<LookAt>
+			<latitude>30.457136</latitude>
+			<longitude>-81.471788</longitude>
+			<altitude>0</altitude>
+			<heading>-56</heading>
+			<range>40000</range>
+			<tilt>43</tilt>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_nps-timu-placemark-tree</styleUrl>
+		<Point>
+                        <extrude>1</extrude>
+                        <altitudeMode>relativeToGround</altitudeMode>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>-81.471788,30.457136,500</coordinates>
+		</Point>
+	</Placemark>
+	<name>vall placemark</name>
+	<StyleMap id="msn_nps-vall-placemark-tree">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_nps-vall-placemark-tree</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_nps-vall-placemark-tree</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_nps-vall-placemark-tree">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>https://liquidgalaxy.endpoint.com/images/placemarks/nps-placemark-tree.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sn_nps-vall-placemark-tree">
+		<IconStyle>
+			<scale>2.5</scale>
+			<Icon>
+				<href>https://liquidgalaxy.endpoint.com/images/placemarks/nps-placemark-tree.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Placemark>
+		<name>vall placemark</name>
+		<LookAt>
+			<latitude>35.9</latitude>
+			<longitude>-106.533</longitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<range>7654</range>
+			<tilt>0</tilt>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_nps-vall-placemark-tree</styleUrl>
+		<Point>
+                        <extrude>1</extrude>
+                        <altitudeMode>relativeToGround</altitudeMode>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>-106.533,35.9,500</coordinates>
+		</Point>
+	</Placemark>
+	<name>whis placemark</name>
+	<StyleMap id="msn_nps-whis-placemark-canoe">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_nps-whis-placemark-canoe</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_nps-whis-placemark-canoe</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_nps-whis-placemark-canoe">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>https://liquidgalaxy.endpoint.com/images/placemarks/nps-placemark-canoe.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sn_nps-whis-placemark-canoe">
+		<IconStyle>
+			<scale>2.5</scale>
+			<Icon>
+				<href>https://liquidgalaxy.endpoint.com/images/placemarks/nps-placemark-canoe.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Placemark>
+		<name>whis placemark</name>
+		<LookAt>
+			<latitude>40.619312</latitude>
+			<longitude>-122.584617</longitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<range>40000</range>
+			<tilt>0</tilt>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_nps-whis-placemark-canoe</styleUrl>
+		<Point>
+                        <extrude>1</extrude>
+                        <altitudeMode>relativeToGround</altitudeMode>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>-122.584617,40.619312,500</coordinates>
+		</Point>
+	</Placemark>
+	<name>yuch placemark</name>
+	<StyleMap id="msn_nps-yuch-placemark-tree">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_nps-yuch-placemark-tree</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_nps-yuch-placemark-tree</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_nps-yuch-placemark-tree">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>https://liquidgalaxy.endpoint.com/images/placemarks/nps-placemark-tree.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sn_nps-yuch-placemark-tree">
+		<IconStyle>
+			<scale>2.5</scale>
+			<Icon>
+				<href>https://liquidgalaxy.endpoint.com/images/placemarks/nps-placemark-tree.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Placemark>
+		<name>yuch placemark</name>
+		<LookAt>
+			<latitude>65.143798</latitude>
+			<longitude>-142.479613</longitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<range>250000</range>
+			<tilt>0</tilt>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_nps-yuch-placemark-tree</styleUrl>
+		<Point>
+                        <extrude>1</extrude>
+                        <altitudeMode>relativeToGround</altitudeMode>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>-142.479613,65.143798,500</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated 2020-10-27 19:46:35.887760 - by make-unit.py -->
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+  <name>Natural Bridges National Monument</name>
+    <StyleMap id="stylemap_id1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#style</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#style0</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="style">
+      <LineStyle>
+        <color>ff00ffff</color>
+        <width>2.5</width>
+      </LineStyle>
+      <PolyStyle>
+        <fill>0</fill>
+        <color>ff00ffff</color>
+      </PolyStyle>
+    </Style>
+    <Style id="style0">
+      <LineStyle>
+        <color>ff00ffff</color>
+        <width>2.5</width>
+      </LineStyle>
+      <PolyStyle>
+        <fill>0</fill>
+        <color>ff00ffff</color>
+      </PolyStyle>
+    </Style>
+    <Placemark id="nabr">
+      <name>Natural Bridges National Monument</name>
+      <styleUrl>#stylemap_id1</styleUrl>
+      <MultiGeometry>
+        <Polygon><outerBoundaryIs><LinearRing><coordinates>-109.993300377996704,37.634844012830357 -109.966499076124052,37.634758229694327 -109.966541920994445,37.624930499865627 -109.966539619772291,37.605908023489043 -109.975744717714846,37.605863950818673 -109.975771611211428,37.599186134364857 -109.984346701990503,37.599178065714625 -109.98434858628076,37.592007262979209 -109.993594683081568,37.592002188804614 -109.993454563542343,37.584756389221432 -110.001351639278141,37.584717329556312 -110.0024866409927,37.584667326549067 -110.002458402568521,37.570174724526929 -110.025074449208262,37.570249626807403 -110.025114571076244,37.577497431872409 -110.029592581101042,37.577528412934278 -110.029637763301409,37.588320124004973 -110.038690785342567,37.588396087891681 -110.038795847563065,37.592037990907279 -110.047853869522271,37.592076956629292 -110.04777710462966,37.605788596415216 -110.034089069532016,37.605790641786008 -110.034091130366434,37.609380546136421 -110.029529118805215,37.609404560213179 -110.029583241378759,37.616660365889402 -110.025024229603247,37.616702378619138 -110.025042290390999,37.620317281416533 -110.015979265276528,37.620330307763922 -110.016034386599415,37.627603110471 -110.001386343256087,37.627559152096744 -109.993335260478247,37.627607211595006 -109.993300377996704,37.634844012830357</coordinates></LinearRing></outerBoundaryIs></Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Document>
+</kml>

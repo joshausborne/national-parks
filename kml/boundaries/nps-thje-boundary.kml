@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated 2020-10-27 19:46:35.887760 - by make-unit.py -->
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+  <name>Thomas Jefferson Memorial</name>
+    <StyleMap id="stylemap_id1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#style</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#style0</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="style">
+      <LineStyle>
+        <color>ff00ffff</color>
+        <width>2.5</width>
+      </LineStyle>
+      <PolyStyle>
+        <fill>0</fill>
+        <color>ff00ffff</color>
+      </PolyStyle>
+    </Style>
+    <Style id="style0">
+      <LineStyle>
+        <color>ff00ffff</color>
+        <width>2.5</width>
+      </LineStyle>
+      <PolyStyle>
+        <fill>0</fill>
+        <color>ff00ffff</color>
+      </PolyStyle>
+    </Style>
+    <Placemark id="thje">
+      <name>Thomas Jefferson Memorial</name>
+      <styleUrl>#stylemap_id1</styleUrl>
+      <MultiGeometry>
+        <Polygon><outerBoundaryIs><LinearRing><coordinates>-77.03691145882037,38.88177542376701,0 -77.03687977018936,38.88177652706316,0 -77.03687893323934,38.8817370112341,0 -77.03691903563413,38.88171308313976,0 -77.03701586700556,38.88163356919515,0 -77.03709100563962,38.88151098407376,0 -77.03711329023272,38.88139298757248,0 -77.03709099400088,38.88127970901501,0 -77.03704238726776,38.881194776238,0 -77.03696727178257,38.88111310718321,0 -77.03688431409815,38.88106287508826,0 -77.03677840679757,38.8810207887091,0 -77.03677955981644,38.88098565537003,0 -77.03636542099196,38.88098711510911,0 -77.03636498970252,38.88101990390533,0 -77.03625746521571,38.88105897944364,0 -77.03614311067869,38.88112394831496,0 -77.03606625299562,38.88121988866731,0 -77.03602182777854,38.8813300530312,0 -77.03602780599432,38.88145437848856,0 -77.0360603484782,38.88155181644884,0 -77.03611100788636,38.88163495964506,0 -77.03617966830016,38.88169461060571,0 -77.03624541579468,38.88173029601877,0 -77.03624541568162,38.88175651692783,0 -77.0362090325756,38.88175864590073,0 -77.03620788947666,38.88185503548048,0 -77.03691405578019,38.88185549583752,0 -77.03691145882037,38.88177542376701,0 </coordinates></LinearRing></outerBoundaryIs></Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Document>
+</kml>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated 2020-10-27 19:46:35.887760 - by make-unit.py -->
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+  <name>Minuteman Missile National Historic Site</name>
+    <StyleMap id="stylemap_id1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#style</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#style0</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="style">
+      <LineStyle>
+        <color>ff00ffff</color>
+        <width>2.5</width>
+      </LineStyle>
+      <PolyStyle>
+        <fill>0</fill>
+        <color>ff00ffff</color>
+      </PolyStyle>
+    </Style>
+    <Style id="style0">
+      <LineStyle>
+        <color>ff00ffff</color>
+        <width>2.5</width>
+      </LineStyle>
+      <PolyStyle>
+        <fill>0</fill>
+        <color>ff00ffff</color>
+      </PolyStyle>
+    </Style>
+    <Placemark id="mimi">
+      <name>Minuteman Missile National Historic Site</name>
+      <styleUrl>#stylemap_id1</styleUrl>
+      <MultiGeometry>
+        <Polygon><outerBoundaryIs><LinearRing><coordinates>-102.158732337191211,43.930839392512709 -102.160297028390133,43.930827538131481 -102.16031836215214,43.932281279666562 -102.158758211604095,43.932293095537595 -102.158732337191211,43.930839392512709</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates>-101.959783290769479,43.878267594954565 -101.95978253340364,43.877924662429955 -101.9599273943317,43.87792449494701 -101.959927242694206,43.877855908438683 -101.959925578586322,43.877103212582966 -101.95978268267379,43.877162907002422 -101.95978258952762,43.876618031649919 -101.960554939081192,43.876295377994623 -101.96088118492986,43.876704002716295 -101.961086039242531,43.876960580534437 -101.961611526854171,43.876741049195253 -101.961877083283994,43.877073648304936 -101.961647182078238,43.877169694086831 -101.961845257366491,43.877417704147817 -101.963015472439594,43.877398619865829 -101.963044047538816,43.87834319557971 -101.959779165675215,43.878389494651067 -101.959783290769479,43.878267594954565</coordinates></LinearRing></outerBoundaryIs></Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Document>
+</kml>

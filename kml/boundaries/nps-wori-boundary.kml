@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated 2020-10-27 19:46:35.887760 - by make-unit.py -->
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+  <name>Women's Rights National Historical Park</name>
+    <StyleMap id="stylemap_id1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#style</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#style0</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="style">
+      <LineStyle>
+        <color>ff00ffff</color>
+        <width>2.5</width>
+      </LineStyle>
+      <PolyStyle>
+        <fill>0</fill>
+        <color>ff00ffff</color>
+      </PolyStyle>
+    </Style>
+    <Style id="style0">
+      <LineStyle>
+        <color>ff00ffff</color>
+        <width>2.5</width>
+      </LineStyle>
+      <PolyStyle>
+        <fill>0</fill>
+        <color>ff00ffff</color>
+      </PolyStyle>
+    </Style>
+    <Placemark id="wori">
+      <name>Women's Rights National Historical Park</name>
+      <styleUrl>#stylemap_id1</styleUrl>
+      <MultiGeometry>
+        <Polygon><outerBoundaryIs><LinearRing><coordinates>-76.786816201429119,42.912644115887439 -76.787188221566751,42.911951112882612 -76.787709242503027,42.912065112835421 -76.787841249650128,42.911819111770882 -76.78839727169543,42.911985111890004 -76.787877243640949,42.91293911602591 -76.786816201429119,42.912644115887439</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates>-76.799076726499749,42.910501096422372 -76.799096727501578,42.910476096310433 -76.799110728131879,42.910469096271356 -76.799151729610458,42.910503096361097 -76.799929761979001,42.910509095670115 -76.799953762958594,42.910512095659186 -76.799975763787202,42.910525095687525 -76.799977763620845,42.910562095823856 -76.799996764581124,42.910537095713053 -76.800006764923339,42.910548095745007 -76.800013765086732,42.910567095809583 -76.800006761907085,42.910995097413078 -76.799482740174312,42.910981097843447 -76.799480740644157,42.910899097538987 -76.799057723145353,42.910881097860667 -76.799076726499749,42.910501096422372</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates>-76.790527371597946,42.910319103568 -76.790596378816232,42.909672101041572 -76.791034397607135,42.909591100334744 -76.791002393728832,42.909970101805506 -76.791063396518538,42.90993310160912 -76.791036392660473,42.910340103181873 -76.790527371597946,42.910319103568</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates>-76.787236213359222,42.913474118677307 -76.787197211708246,42.913478118729323 -76.787398223061587,42.913033116834619 -76.788271258058757,42.913236116793257 -76.788174253811135,42.913267117003031 -76.788024247282536,42.913309117304493 -76.787886241247051,42.913352117598926 -76.787722234088506,42.913401117940687 -76.787610229169417,42.913439118191427 -76.787455222627145,42.913452118387106 -76.787313216606108,42.913468118581839 -76.787236213359222,42.913474118677307</coordinates></LinearRing></outerBoundaryIs></Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Document>
+</kml>

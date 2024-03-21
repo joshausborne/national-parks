@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated 2020-10-27 19:46:35.887760 - by make-unit.py -->
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+  <name>World War II Valor in the Pacific National Monument</name>
+    <StyleMap id="stylemap_id1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#style</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#style0</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="style">
+      <LineStyle>
+        <color>ff00ffff</color>
+        <width>2.5</width>
+      </LineStyle>
+      <PolyStyle>
+        <fill>0</fill>
+        <color>ff00ffff</color>
+      </PolyStyle>
+    </Style>
+    <Style id="style0">
+      <LineStyle>
+        <color>ff00ffff</color>
+        <width>2.5</width>
+      </LineStyle>
+      <PolyStyle>
+        <fill>0</fill>
+        <color>ff00ffff</color>
+      </PolyStyle>
+    </Style>
+    <Placemark id="valr">
+      <name>World War II Valor in the Pacific National Monument</name>
+      <styleUrl>#stylemap_id1</styleUrl>
+      <MultiGeometry>
+        <Polygon><outerBoundaryIs><LinearRing><coordinates>-157.9401430870991,21.36662229613618,0 -157.9380130544156,21.36586894166892,0 -157.937831716139,21.36643650222832,0 -157.9376926532149,21.36658539808196,0 -157.9370753233448,21.3687722764754,0 -157.9369677859393,21.36905113982894,0 -157.9378231925307,21.36935556825804,0 -157.9383436369077,21.36917581434192,0 -157.9386863328378,21.36918509423098,0 -157.9388040562949,21.36921473199085,0 -157.9389111567596,21.36907542077978,0 -157.9389318090102,21.36883371440905,0 -157.9398416513925,21.3688552399612,0 -157.9398315174544,21.36867635783534,0 -157.9389533603949,21.36868496967378,0 -157.9391796385327,21.36846834742247,0 -157.9391773047023,21.36820675169681,0 -157.9394796709665,21.36743008067094,0 -157.9397125144157,21.3673809625005,0 -157.9398431991577,21.36741031297358,0 -157.9401430870991,21.36662229613618,0 </coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates>-157.9523375593842,21.36356521868822,0 -157.9519002386238,21.36303848778673,0 -157.9479156034542,21.36603329303894,0 -157.9483576440206,21.36653404266266,0 -157.9523375593842,21.36356521868822,0 </coordinates></LinearRing></outerBoundaryIs></Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Document>
+</kml>

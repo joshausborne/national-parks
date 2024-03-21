@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated 2020-10-27 19:46:35.887760 - by make-unit.py -->
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+  <name>Wright Brothers National Memorial</name>
+    <StyleMap id="stylemap_id1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#style</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#style0</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="style">
+      <LineStyle>
+        <color>ff00ffff</color>
+        <width>2.5</width>
+      </LineStyle>
+      <PolyStyle>
+        <fill>0</fill>
+        <color>ff00ffff</color>
+      </PolyStyle>
+    </Style>
+    <Style id="style0">
+      <LineStyle>
+        <color>ff00ffff</color>
+        <width>2.5</width>
+      </LineStyle>
+      <PolyStyle>
+        <fill>0</fill>
+        <color>ff00ffff</color>
+      </PolyStyle>
+    </Style>
+    <Placemark id="wrbr">
+      <name>Wright Brothers National Memorial</name>
+      <styleUrl>#stylemap_id1</styleUrl>
+      <MultiGeometry>
+        <Polygon><outerBoundaryIs><LinearRing><coordinates>-75.664074082664612,36.019511303072292 -75.665156188053317,36.021261249076922 -75.662392125409866,36.022491296728298 -75.661333019523255,36.020699351011281 -75.664074082664612,36.019511303072292</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates>-75.673513431269228,36.019054079716248 -75.675093588182037,36.021667001237127 -75.671190500854323,36.023421068951912 -75.67180556204994,36.024442038311058 -75.669979520803139,36.025258069756148 -75.669354458904479,36.024227100863023 -75.667885425120076,36.024868126348494 -75.661847823544221,36.01472943358619 -75.663263855896133,36.014116408407546 -75.662481777539099,36.012783448900556 -75.657754673880419,36.014952530869756 -75.657617657868727,36.01465453905621 -75.666147846663833,36.010805389265428 -75.666300861111395,36.011041381757423 -75.67407703367742,36.007601241328494 -75.675605182628345,36.01006816552772 -75.67824653531386,36.016903996565638 -75.673513431269228,36.019054079716248</coordinates></LinearRing></outerBoundaryIs></Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Document>
+</kml>

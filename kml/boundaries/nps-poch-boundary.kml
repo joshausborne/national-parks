@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated 2020-10-27 19:46:35.887760 - by make-unit.py -->
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+  <name>Port Chicago Naval Magazine National Memorial</name>
+    <StyleMap id="stylemap_id1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#style</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#style0</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="style">
+      <LineStyle>
+        <color>ff00ffff</color>
+        <width>2.5</width>
+      </LineStyle>
+      <PolyStyle>
+        <fill>0</fill>
+        <color>ff00ffff</color>
+      </PolyStyle>
+    </Style>
+    <Style id="style0">
+      <LineStyle>
+        <color>ff00ffff</color>
+        <width>2.5</width>
+      </LineStyle>
+      <PolyStyle>
+        <fill>0</fill>
+        <color>ff00ffff</color>
+      </PolyStyle>
+    </Style>
+    <Placemark id="poch">
+      <name>Port Chicago Naval Magazine National Memorial</name>
+      <styleUrl>#stylemap_id1</styleUrl>
+      <MultiGeometry>
+        <Polygon><outerBoundaryIs><LinearRing><coordinates>-122.0303842005119,38.05816149714172,0 -122.0303770884631,38.0580066465095,0 -122.0303441487061,38.0579026154979,0 -122.0302920024702,38.05781565594422,0 -122.030291992937,38.05774543285823,0 -122.0302919859068,38.05769704091453,0 -122.0303177170256,38.05758483486043,0 -122.0303561244504,38.05750528855111,0 -122.0304389906896,38.0574402380908,0 -122.0305853662072,38.05740232923704,0 -122.0308025936793,38.0573738081858,0 -122.0307902411134,38.05684789945895,0 -122.0318865559987,38.05564440742921,0 -122.0319339634624,38.05521621394878,0 -122.030065434731,38.05585730561006,0 -122.029851892118,38.05608852816146,0 -122.0297184193158,38.05621462421883,0 -122.0296382975365,38.05634099715806,0 -122.029558184237,38.05646715842899,0 -122.0294914664995,38.0566036733675,0 -122.0293847269045,38.0568662667118,0 -122.0293312863957,38.05712918451703,0 -122.029378622826,38.05732025342484,0 -122.029478174351,38.05746524031098,0 -122.0293119277491,38.05764247894895,0 -122.0292997767849,38.05794631792245,0 -122.0292101278439,38.0581429073678,0 -122.0295043754405,38.05835353566487,0 -122.0303842005119,38.05816149714172,0 </coordinates></LinearRing></outerBoundaryIs></Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Document>
+</kml>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated 2020-10-27 19:46:35.887760 - by make-unit.py -->
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+  <name>El Morro National Monument</name>
+    <StyleMap id="stylemap_id1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#style</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#style0</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="style">
+      <LineStyle>
+        <color>ff00ffff</color>
+        <width>2.5</width>
+      </LineStyle>
+      <PolyStyle>
+        <fill>0</fill>
+        <color>ff00ffff</color>
+      </PolyStyle>
+    </Style>
+    <Style id="style0">
+      <LineStyle>
+        <color>ff00ffff</color>
+        <width>2.5</width>
+      </LineStyle>
+      <PolyStyle>
+        <fill>0</fill>
+        <color>ff00ffff</color>
+      </PolyStyle>
+    </Style>
+    <Placemark id="elmo">
+      <name>El Morro National Monument</name>
+      <styleUrl>#stylemap_id1</styleUrl>
+      <MultiGeometry>
+        <Polygon><outerBoundaryIs><LinearRing><coordinates>-108.3640300974876,35.042618630764998 -108.364028128435791,35.046233858965209 -108.359722568103365,35.046231734173013 -108.3553066502148,35.046229627681058 -108.35089061336636,35.046227453126058 -108.346474676500648,35.046225204450742 -108.342069747851923,35.046216272369207 -108.337664803212618,35.046207089921928 -108.333256426571168,35.046191803071309 -108.328848257232906,35.046176349574367 -108.328818656184907,35.042519768781872 -108.32878944608116,35.038899404479359 -108.32876025178831,35.035279038204848 -108.328730963860068,35.031658672964262 -108.333147926866687,35.031669855290815 -108.337564990841813,35.031680963420854 -108.341981944214822,35.031692183417107 -108.346398885417941,35.031703242208515 -108.350809184407339,35.031720811786307 -108.355219577673196,35.031738127555805 -108.359629861034492,35.03175555564723 -108.364035758932843,35.031773034499643 -108.364033859854203,35.035388265060263 -108.364031970243047,35.039003403803569 -108.3640300974876,35.042618630764998</coordinates></LinearRing></outerBoundaryIs></Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Document>
+</kml>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated 2020-10-27 19:46:35.887760 - by make-unit.py -->
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+  <name>Boston African American National Historic Site</name>
+    <StyleMap id="stylemap_id1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#style</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#style0</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="style">
+      <LineStyle>
+        <color>ff00ffff</color>
+        <width>2.5</width>
+      </LineStyle>
+      <PolyStyle>
+        <fill>0</fill>
+        <color>ff00ffff</color>
+      </PolyStyle>
+    </Style>
+    <Style id="style0">
+      <LineStyle>
+        <color>ff00ffff</color>
+        <width>2.5</width>
+      </LineStyle>
+      <PolyStyle>
+        <fill>0</fill>
+        <color>ff00ffff</color>
+      </PolyStyle>
+    </Style>
+    <Placemark id="boaf">
+      <name>Boston African American National Historic Site</name>
+      <styleUrl>#stylemap_id1</styleUrl>
+      <MultiGeometry>
+        <Polygon><outerBoundaryIs><LinearRing><coordinates>-71.072481506118223,42.355238985046533 -71.072886493348648,42.356031967322885 -71.071484576118152,42.361062048097885 -71.068519695014146,42.360971189788884 -71.065127831655616,42.361008352176135 -71.062624932529957,42.361071471987351 -71.062581930821324,42.359674473337556 -71.062481932600434,42.358737477697915 -71.062325937105172,42.357956484886991 -71.061730962001931,42.358164513818203 -71.061477972528053,42.358234526098848 -71.061353976790684,42.357849532013773 -71.06062900619952,42.357651567183915 -71.060691003455432,42.35755256416244 -71.060586007667027,42.357494569260737 -71.061621962651202,42.356429518581415 -71.06294191122187,42.357726454870182 -71.064462847108601,42.357200380530671 -71.065320811057944,42.356999338548405 -71.069490634481056,42.356013133434111 -71.07182253453459,42.355415017839796 -71.072481506118223,42.355238985046533</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates>-71.064445860320063,42.361420385186314 -71.064461860978327,42.361858384820813 -71.06403787799664,42.361877405048958 -71.064035878284969,42.361950405204233 -71.063554897615674,42.361986428150168 -71.063506898203457,42.361495430090812 -71.064445860320063,42.361420385186314</coordinates></LinearRing></outerBoundaryIs></Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Document>
+</kml>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated 2020-10-27 19:46:35.887760 - by make-unit.py -->
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+  <name>Fort McHenry National Monument and Historic Shrine</name>
+    <StyleMap id="stylemap_id1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#style</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#style0</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="style">
+      <LineStyle>
+        <color>ff00ffff</color>
+        <width>2.5</width>
+      </LineStyle>
+      <PolyStyle>
+        <fill>0</fill>
+        <color>ff00ffff</color>
+      </PolyStyle>
+    </Style>
+    <Style id="style0">
+      <LineStyle>
+        <color>ff00ffff</color>
+        <width>2.5</width>
+      </LineStyle>
+      <PolyStyle>
+        <fill>0</fill>
+        <color>ff00ffff</color>
+      </PolyStyle>
+    </Style>
+    <Placemark id="fomc">
+      <name>Fort McHenry National Monument and Historic Shrine</name>
+      <styleUrl>#stylemap_id1</styleUrl>
+      <MultiGeometry>
+        <Polygon><outerBoundaryIs><LinearRing><coordinates>-76.579712392458575,39.259401165457838 -76.580299416467525,39.259413162479611 -76.581512483392572,39.260763150494036 -76.581840499867752,39.261004147800072 -76.583709590994317,39.262167133378064 -76.584152610585633,39.262289130636169 -76.583503597068855,39.263273129540842 -76.582954582993665,39.263903129502467 -76.580604477452127,39.263132144589115 -76.58013946893594,39.263926143407637 -76.578842410207884,39.263464151896123 -76.578720409891289,39.263819150939533 -76.577972378209935,39.263720155097637 -76.577797366460118,39.263365157532775 -76.577637353175788,39.262846160616405 -76.57751434243994,39.262407163163239 -76.577453333883227,39.26194216551653 -76.577652336334282,39.261511166425066 -76.577850340692805,39.261229166681652 -76.578041344453368,39.260923167078928 -76.578285349034573,39.260515167661183 -76.578644356498359,39.259970168273654 -76.579010367030961,39.259638167912414 -76.57935337832842,39.259436167092794 -76.579712392458575,39.259401165457838</coordinates></LinearRing></outerBoundaryIs></Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Document>
+</kml>

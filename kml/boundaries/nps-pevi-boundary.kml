@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated 2020-10-27 19:46:35.887760 - by make-unit.py -->
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+  <name>Perry's Victory and International Peace Memorial</name>
+    <StyleMap id="stylemap_id1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#style</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#style0</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="style">
+      <LineStyle>
+        <color>ff00ffff</color>
+        <width>2.5</width>
+      </LineStyle>
+      <PolyStyle>
+        <fill>0</fill>
+        <color>ff00ffff</color>
+      </PolyStyle>
+    </Style>
+    <Style id="style0">
+      <LineStyle>
+        <color>ff00ffff</color>
+        <width>2.5</width>
+      </LineStyle>
+      <PolyStyle>
+        <fill>0</fill>
+        <color>ff00ffff</color>
+      </PolyStyle>
+    </Style>
+    <Placemark id="pevi">
+      <name>Perry's Victory and International Peace Memorial</name>
+      <styleUrl>#stylemap_id1</styleUrl>
+      <MultiGeometry>
+        <Polygon><outerBoundaryIs><LinearRing><coordinates>-82.811730523039273,41.652926566759923 -82.812622599671258,41.652952579583939 -82.814409755448025,41.652950605812066 -82.814408721522554,41.6537695976549 -82.815656831021741,41.653754616102333 -82.815641815808917,41.654092612520003 -82.81483474482755,41.65410560055976 -82.814847728347615,41.654532596504218 -82.814500701380325,41.65445159222304 -82.81408067056924,41.654309587477933 -82.813870654342324,41.654258584906408 -82.812634542677031,41.654348565892811 -82.8124185204437,41.654429561921937 -82.811034367955031,41.655185534129963 -82.811226346390669,41.656103527831078 -82.810844293394879,41.656570517599619 -82.810538252500521,41.656906509782836 -82.810040221704142,41.656599505534352 -82.809566194189941,41.656265501903803 -82.809253176780686,41.656027499678508 -82.808008105818004,41.655126490367842 -82.809227232185847,41.654656512894036 -82.809730286803315,41.654402522786548 -82.810374358889135,41.654024535977648 -82.810929422387673,41.65366454768759 -82.811386478495663,41.653275558250051 -82.811730523039273,41.652926566759923</coordinates></LinearRing></outerBoundaryIs></Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Document>
+</kml>

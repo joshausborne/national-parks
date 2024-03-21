@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated 2020-10-27 19:46:35.887760 - by make-unit.py -->
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+  <name>Capulin Volcano National Monument</name>
+    <StyleMap id="stylemap_id1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#style</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#style0</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="style">
+      <LineStyle>
+        <color>ff00ffff</color>
+        <width>2.5</width>
+      </LineStyle>
+      <PolyStyle>
+        <fill>0</fill>
+        <color>ff00ffff</color>
+      </PolyStyle>
+    </Style>
+    <Style id="style0">
+      <LineStyle>
+        <color>ff00ffff</color>
+        <width>2.5</width>
+      </LineStyle>
+      <PolyStyle>
+        <fill>0</fill>
+        <color>ff00ffff</color>
+      </PolyStyle>
+    </Style>
+    <Placemark id="cavo">
+      <name>Capulin Volcano National Monument</name>
+      <styleUrl>#stylemap_id1</styleUrl>
+      <MultiGeometry>
+        <Polygon><outerBoundaryIs><LinearRing><coordinates>-103.980899365685744,36.785292514439035 -103.976419047517666,36.785298184329086 -103.976430402957007,36.788922018817587 -103.971948982396242,36.788927419184901 -103.96746803654456,36.788930942024599 -103.962987095580303,36.788934205899032 -103.958509517844448,36.788937510672469 -103.958502509170373,36.785327961319219 -103.958480802615199,36.781669783084084 -103.958458889927485,36.777993571860556 -103.962936936250784,36.777999823987145 -103.962914862342444,36.774352815459544 -103.967392495392502,36.774365926047174 -103.971870247269933,36.774378778942449 -103.976359975449114,36.774392918568857 -103.976369531734164,36.776208433464639 -103.980857591595097,36.776221398069218 -103.983102399587963,36.776228454533118 -103.983109666464856,36.778042597668687 -103.985353859906368,36.778049336304228 -103.985360629308616,36.779862663568458 -103.987603428496811,36.779868717196074 -103.987612325763095,36.782587930485889 -103.985370562162956,36.782582336053821 -103.984249566421212,36.782579702307387 -103.984252831662005,36.783485868454086 -103.983132938893235,36.783483594098598 -103.983139961151252,36.785290611519272 -103.980899365685744,36.785292514439035</coordinates></LinearRing></outerBoundaryIs></Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Document>
+</kml>

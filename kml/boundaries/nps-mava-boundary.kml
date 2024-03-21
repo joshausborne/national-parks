@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated 2020-10-27 19:46:35.887760 - by make-unit.py -->
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+  <name>Martin Van Buren National Historic Site</name>
+    <StyleMap id="stylemap_id1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#style</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#style0</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="style">
+      <LineStyle>
+        <color>ff00ffff</color>
+        <width>2.5</width>
+      </LineStyle>
+      <PolyStyle>
+        <fill>0</fill>
+        <color>ff00ffff</color>
+      </PolyStyle>
+    </Style>
+    <Style id="style0">
+      <LineStyle>
+        <color>ff00ffff</color>
+        <width>2.5</width>
+      </LineStyle>
+      <PolyStyle>
+        <fill>0</fill>
+        <color>ff00ffff</color>
+      </PolyStyle>
+    </Style>
+    <Placemark id="mava">
+      <name>Martin Van Buren National Historic Site</name>
+      <styleUrl>#stylemap_id1</styleUrl>
+      <MultiGeometry>
+        <Polygon><outerBoundaryIs><LinearRing><coordinates>-73.703744397379921,42.367508201632468 -73.705746483098579,42.368419212602554 -73.705530474227018,42.368694213628281 -73.705553475945891,42.369433218066241 -73.703655397668513,42.371511225079551 -73.703217378921138,42.371314222693535 -73.702883364447274,42.370989219839672 -73.702585352130953,42.37128722077378 -73.701565307844987,42.370216211592862 -73.70185831996794,42.369936210751206 -73.701738314827679,42.369879210079574 -73.701045286153388,42.370539212056791 -73.70057026571746,42.370226208880723 -73.700342255908126,42.370076207357656 -73.700115246178839,42.369963206056205 -73.701918321301065,42.368751203903251 -73.703151372697093,42.367937202519592 -73.70328137811525,42.367850202367002 -73.703395382860762,42.367768202199144 -73.703744397379921,42.367508201632468</coordinates></LinearRing></outerBoundaryIs></Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Document>
+</kml>

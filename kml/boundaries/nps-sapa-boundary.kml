@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated 2020-10-27 19:46:35.887760 - by make-unit.py -->
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+  <name>Saint Paul's Church National Historic Site</name>
+    <StyleMap id="stylemap_id1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#style</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#style0</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="style">
+      <LineStyle>
+        <color>ff00ffff</color>
+        <width>2.5</width>
+      </LineStyle>
+      <PolyStyle>
+        <fill>0</fill>
+        <color>ff00ffff</color>
+      </PolyStyle>
+    </Style>
+    <Style id="style0">
+      <LineStyle>
+        <color>ff00ffff</color>
+        <width>2.5</width>
+      </LineStyle>
+      <PolyStyle>
+        <fill>0</fill>
+        <color>ff00ffff</color>
+      </PolyStyle>
+    </Style>
+    <Placemark id="sapa">
+      <name>Saint Paul's Church National Historic Site</name>
+      <styleUrl>#stylemap_id1</styleUrl>
+      <MultiGeometry>
+        <Polygon><outerBoundaryIs><LinearRing><coordinates>-73.826712762719382,40.893288437409041 -73.826472995706851,40.893333441036219 -73.826287184914918,40.893364916172274 -73.826039676866969,40.893410818054434 -73.82571382285434,40.89348224697676 -73.825449057648996,40.893543492944332 -73.825231771253272,40.893609947408549 -73.825139177357116,40.893658365442406 -73.825095231256242,40.893678380711599 -73.824905671823672,40.893773842738526 -73.824729499191093,40.893686243460301 -73.824607536805559,40.89362441219977 -73.824492305146308,40.893583139665239 -73.824846878471291,40.892926009773177 -73.824990368941869,40.892744594032365 -73.825160008319131,40.892505454618728 -73.825796283168629,40.891782214345263 -73.826390997604747,40.892019584549175 -73.826653874832274,40.892251428653935 -73.8266536050414,40.892354885706879 -73.826760941701977,40.892362436667788 -73.826823884809258,40.89326924786949 -73.826712762719382,40.893288437409041</coordinates></LinearRing></outerBoundaryIs></Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Document>
+</kml>

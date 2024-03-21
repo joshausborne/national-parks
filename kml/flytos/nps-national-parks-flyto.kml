@@ -1,0 +1,48 @@
+<ns0:kml xmlns:ns0="http://www.opengis.net/kml/2.2" xmlns:ns1="http://www.google.com/kml/ext/2.2">
+  <ns0:Document id="Document_0">
+    <ns0:name>National Park Service Flyto</ns0:name>
+    <ns0:visibility>1</ns0:visibility>
+    <ns0:open>0</ns0:open>
+    <ns0:Folder id="Folder_1">
+      <ns0:name>AutoPlay</ns0:name>
+      <ns0:visibility>1</ns0:visibility>
+      <ns0:open>0</ns0:open>
+      <ns0:NetworkLink id="NetworkLink_2">
+        <ns0:name>Autoplay</ns0:name>
+        <ns0:visibility>1</ns0:visibility>
+        <ns0:open>0</ns0:open>
+        <ns0:Link id="Link_3">
+          <ns0:href>http://localhost:8765/query.html?query=nps-national-parks-flyto</ns0:href>
+          <ns0:refreshMode>onChange</ns0:refreshMode>
+          <ns0:viewRefreshMode>never</ns0:viewRefreshMode>
+        </ns0:Link>
+        <ns0:flyToView>0</ns0:flyToView>
+        <ns0:refreshVisibility>0</ns0:refreshVisibility>
+      </ns0:NetworkLink>
+    </ns0:Folder>
+    <ns1:Tour id="Tour_4">
+      <ns0:name>nps-national-parks-flyto</ns0:name>
+      <ns1:Playlist>
+        <ns1:Wait id="Wait_5">
+          
+          <ns1:duration>0.1</ns1:duration>
+        </ns1:Wait>
+        <ns1:FlyTo id="FlyTo_6">
+          <ns1:duration>6</ns1:duration>
+          <ns0:Camera id="Camera_7">
+            <ns0:longitude>-95.392169</ns0:longitude>
+            <ns0:latitude>38.866198</ns0:latitude>
+            <ns0:altitude>7500000</ns0:altitude>
+            <ns0:heading>0.0</ns0:heading>
+            <ns0:tilt>0.0</ns0:tilt>
+            <ns0:roll>0.0</ns0:roll>
+            <ns1:altitudeMode>relativeToGround</ns1:altitudeMode>
+          </ns0:Camera>
+        </ns1:FlyTo>
+        <ns1:Wait id="Wait_8">
+          <ns1:duration>4</ns1:duration>
+        </ns1:Wait>
+      </ns1:Playlist>
+    </ns1:Tour>
+  <ns0:NetworkLink><ns0:name>Autoplay</ns0:name><ns0:Link id="Auto-Created_Autoplay"><ns0:href>http://localhost:8765/query.html?query=playtour=nps-national-parks-flyto</ns0:href></ns0:Link></ns0:NetworkLink></ns0:Document>
+</ns0:kml>

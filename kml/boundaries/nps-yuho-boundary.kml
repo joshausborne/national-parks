@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated 2020-10-27 19:46:35.887760 - by make-unit.py -->
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+  <name>Yucca House National Monument</name>
+    <StyleMap id="stylemap_id1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#style</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#style0</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="style">
+      <LineStyle>
+        <color>ff00ffff</color>
+        <width>2.5</width>
+      </LineStyle>
+      <PolyStyle>
+        <fill>0</fill>
+        <color>ff00ffff</color>
+      </PolyStyle>
+    </Style>
+    <Style id="style0">
+      <LineStyle>
+        <color>ff00ffff</color>
+        <width>2.5</width>
+      </LineStyle>
+      <PolyStyle>
+        <fill>0</fill>
+        <color>ff00ffff</color>
+      </PolyStyle>
+    </Style>
+    <Placemark id="yuho">
+      <name>Yucca House National Monument</name>
+      <styleUrl>#stylemap_id1</styleUrl>
+      <MultiGeometry>
+        <Polygon><outerBoundaryIs><LinearRing><coordinates>-108.68554321363338,37.251072022328522 -108.684843136991233,37.251044650091416 -108.684497657587684,37.250481894329418 -108.684514234762915,37.250207049921109 -108.684686085834741,37.250213677305823 -108.684684482579058,37.246679495552769 -108.686440948978444,37.246684573434898 -108.686459313578411,37.243041385868928 -108.686477561171941,37.239397840272929 -108.686890069054343,37.239399665705669 -108.68687182826109,37.243042940447559 -108.686853466070843,37.246685767204809 -108.686847771889092,37.247765521334784 -108.687412035887689,37.24776549535752 -108.687411611390885,37.249495731601712 -108.687309654017511,37.251140828899601 -108.687309726279892,37.251278576050417 -108.68641803173071,37.251243764629344 -108.685543165746139,37.251209683211286 -108.68554321363338,37.251072022328522</coordinates></LinearRing></outerBoundaryIs></Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Document>
+</kml>

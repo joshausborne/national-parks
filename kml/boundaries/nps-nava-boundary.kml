@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated 2020-10-27 19:46:35.887760 - by make-unit.py -->
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+  <name>Navajo National Monument</name>
+    <StyleMap id="stylemap_id1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#style</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#style0</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="style">
+      <LineStyle>
+        <color>ff00ffff</color>
+        <width>2.5</width>
+      </LineStyle>
+      <PolyStyle>
+        <fill>0</fill>
+        <color>ff00ffff</color>
+      </PolyStyle>
+    </Style>
+    <Style id="style0">
+      <LineStyle>
+        <color>ff00ffff</color>
+        <width>2.5</width>
+      </LineStyle>
+      <PolyStyle>
+        <fill>0</fill>
+        <color>ff00ffff</color>
+      </PolyStyle>
+    </Style>
+    <Placemark id="nava">
+      <name>Navajo National Monument</name>
+      <styleUrl>#stylemap_id1</styleUrl>
+      <MultiGeometry>
+        <Polygon><outerBoundaryIs><LinearRing><coordinates>-110.532334873426223,36.68901638682172 -110.532337965261874,36.681764378142866 -110.532340011133115,36.678142373806629 -110.537012047039696,36.678132367217572 -110.537016093038034,36.674519361969502 -110.545984162268084,36.674510347563718 -110.545980154223486,36.675134348779778 -110.547101170310839,36.674554345859114 -110.54768116673911,36.675179346199307 -110.545999141873651,36.676107350637665 -110.545986023094699,36.685348368577088 -110.541425988546919,36.685353373214198 -110.541432941741562,36.689019379407689 -110.532334873426223,36.68901638682172</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates>-110.493156596041231,36.765061289753348 -110.493147660900533,36.757847341932511 -110.50209282629055,36.757845323929075 -110.502081759451357,36.765071268521773 -110.493156596041231,36.765061289753348</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates>-110.818410476759993,36.673626957022933 -110.818405532668152,36.670094915544659 -110.822876580393896,36.670099912583261 -110.822881524423366,36.67363195375011 -110.818410476759993,36.673626957022933</coordinates></LinearRing></outerBoundaryIs></Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Document>
+</kml>

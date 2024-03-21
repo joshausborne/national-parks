@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated 2020-10-27 19:46:35.887760 - by make-unit.py -->
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+  <name>Waco Mammoth National Monument</name>
+    <StyleMap id="stylemap_id1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#style</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#style0</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="style">
+      <LineStyle>
+        <color>ff00ffff</color>
+        <width>2.5</width>
+      </LineStyle>
+      <PolyStyle>
+        <fill>0</fill>
+        <color>ff00ffff</color>
+      </PolyStyle>
+    </Style>
+    <Style id="style0">
+      <LineStyle>
+        <color>ff00ffff</color>
+        <width>2.5</width>
+      </LineStyle>
+      <PolyStyle>
+        <fill>0</fill>
+        <color>ff00ffff</color>
+      </PolyStyle>
+    </Style>
+    <Placemark id="waco">
+      <name>Waco Mammoth National Monument</name>
+      <styleUrl>#stylemap_id1</styleUrl>
+      <MultiGeometry>
+        <Polygon><outerBoundaryIs><LinearRing><coordinates>-97.1817495928928,31.60873940917474,0 -97.18076481162262,31.60728503573764,0 -97.17873245578872,31.60360607427549,0 -97.17900614557448,31.60337278388542,0 -97.17890180686874,31.60263248817906,0 -97.17513014367931,31.60141119879071,0 -97.17464377229949,31.60062656273261,0 -97.174154648891,31.60067891917722,0 -97.17379655052801,31.60076145706218,0 -97.17343485815623,31.60077464588016,0 -97.17303054212218,31.60072720509621,0 -97.17265744397605,31.60059019498084,0 -97.1728076530549,31.60194717786614,0 -97.17209554986461,31.60449050107643,0 -97.17222362793962,31.60471711648004,0 -97.17229738838286,31.60487689417378,0 -97.17221628654538,31.6052586875589,0 -97.17330470817109,31.60565876243277,0 -97.17358519599723,31.60586528621345,0 -97.17504175025859,31.60785601338553,0 -97.17504400445701,31.60817250811754,0 -97.1817495928928,31.60873940917474,0 </coordinates></LinearRing></outerBoundaryIs></Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Document>
+</kml>

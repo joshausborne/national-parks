@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated 2020-10-27 19:46:35.887760 - by make-unit.py -->
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+  <name>Freedom Riders National Monument</name>
+    <StyleMap id="stylemap_id1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#style</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#style0</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="style">
+      <LineStyle>
+        <color>ff00ffff</color>
+        <width>2.5</width>
+      </LineStyle>
+      <PolyStyle>
+        <fill>0</fill>
+        <color>ff00ffff</color>
+      </PolyStyle>
+    </Style>
+    <Style id="style0">
+      <LineStyle>
+        <color>ff00ffff</color>
+        <width>2.5</width>
+      </LineStyle>
+      <PolyStyle>
+        <fill>0</fill>
+        <color>ff00ffff</color>
+      </PolyStyle>
+    </Style>
+    <Placemark id="frri">
+      <name>Freedom Riders National Monument</name>
+      <styleUrl>#stylemap_id1</styleUrl>
+      <MultiGeometry>
+        			<Polygon>				<outerBoundaryIs>					<LinearRing>						<coordinates>							-85.83130243254389,33.65805331070172,0 -85.83130268663916,33.65801977035861,0 -85.83106738919051,33.6580192823654,0 -85.83106620973379,33.65805333209214,0 -85.83130243254389,33.65805331070172,0 						</coordinates>					</LinearRing>				</outerBoundaryIs>			</Polygon>			<Polygon>				<outerBoundaryIs>					<LinearRing>						<coordinates>							-85.90872125226952,33.63503432376356,0 -85.90859500008145,33.63500209566299,0 -85.90839599169756,33.63498660974421,0 -85.90830241237845,33.63502575504732,0 -85.90829274042736,33.63511542074806,0 -85.90834199181161,33.6351791335,0 -85.90861127130484,33.6352095776112,0 -85.90876277313137,33.63509853385257,0 -85.90872125226952,33.63503432376356,0 						</coordinates>					</LinearRing>				</outerBoundaryIs>			</Polygon>			<Polygon>				<outerBoundaryIs>					<LinearRing>						<coordinates>							-85.82253211073572,33.65673102508011,0 -85.82297372237861,33.65674667994141,0 -85.82299281871451,33.65620819614394,0 -85.82363258684828,33.65618721954946,0 -85.8236364474001,33.6558520224683,0 -85.82401261654211,33.6558788576497,0 -85.82401476956689,33.65541959993002,0 -85.82393562173205,33.65528092647704,0 -85.82370219747112,33.65526459231786,0 -85.82368166041172,33.65507129592638,0 -85.82306633973654,33.65507203888806,0 -85.82304440886719,33.65519507605128,0 -85.82265714350078,33.65522653596752,0 -85.82268896648318,33.65568356551707,0 -85.82246901115244,33.65585301989694,0 -85.82253211073572,33.65673102508011,0 						</coordinates>					</LinearRing>				</outerBoundaryIs>			</Polygon>			<Polygon>				<outerBoundaryIs>					<LinearRing>						<coordinates>							-85.8302260999393,33.65782238080338,0 -85.83023762840384,33.6577783163242,0 -85.8298747586804,33.65776406913236,0 -85.82987300942322,33.65780896825418,0 -85.8302260999393,33.65782238080338,0 						</coordinates>					</LinearRing>				</outerBoundaryIs>			</Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Document>
+</kml>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated 2020-10-27 19:46:35.887760 - by make-unit.py -->
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+  <name>David Berger National Memorial</name>
+    <StyleMap id="stylemap_id1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#style</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#style0</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="style">
+      <LineStyle>
+        <color>ff00ffff</color>
+        <width>2.5</width>
+      </LineStyle>
+      <PolyStyle>
+        <fill>0</fill>
+        <color>ff00ffff</color>
+      </PolyStyle>
+    </Style>
+    <Style id="style0">
+      <LineStyle>
+        <color>ff00ffff</color>
+        <width>2.5</width>
+      </LineStyle>
+      <PolyStyle>
+        <fill>0</fill>
+        <color>ff00ffff</color>
+      </PolyStyle>
+    </Style>
+    <Placemark id="dabe">
+      <name>David Berger National Memorial</name>
+      <styleUrl>#stylemap_id1</styleUrl>
+      <MultiGeometry>
+        <Polygon><outerBoundaryIs><LinearRing><coordinates>-81.49268718452274,41.47560660259663,77 -81.49293748408776,41.4754589159859,77 -81.49272884233537,41.47526727114914,77 -81.49262924674048,41.47530649925923,77 -81.4920692404576,41.4748362907067,77 -81.49197589160697,41.47490633515691,77 -81.4917299863877,41.47469654643363,77 -81.49161979308106,41.47474126787242,77 -81.49122494901408,41.47493381938994,77 -81.49136895335201,41.47500285964818,77 -81.49128301718694,41.47509279384087,77 -81.49145002129144,41.47522387986902,77 -81.49139050638854,41.47528739187301,77 -81.4911800454129,41.4754014956546,77 -81.49128631225243,41.47552307916253,77 -81.4914314696039,41.47570819154117,77 -81.49138568192279,41.47576836219596,77 -81.49160053611367,41.47585829480055,77 -81.49184028374734,41.47582788572522,77 -81.49196647732197,41.47576231012724,77 -81.49220472173572,41.47564321881439,77 -81.49232342564267,41.47572579797941,77 -81.49250987911415,41.47561145729986,77 -81.49244219468346,41.47551620763193,77 -81.49253575178152,41.47549082002359,77 -81.49257059004582,41.47548452621097,77 -81.49268718452274,41.47560660259663,77 </coordinates></LinearRing></outerBoundaryIs></Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Document>
+</kml>

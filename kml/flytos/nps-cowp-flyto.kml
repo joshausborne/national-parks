@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated 2020-10-27 19:46:35.887760 - by make-unit.py -->
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Cowpens National Battlefield</name>
+    <NetworkLink>
+      <name>Autoplay</name>
+      <Link>
+        <href>http://localhost:8765/query.html?query=playtour=5c78ee78-98ec-40e5-8dbc-5af90d435bc8</href>
+      </Link>
+    </NetworkLink>
+    <Tour xmlns="http://www.google.com/kml/ext/2.2">
+      <name xmlns="http://www.opengis.net/kml/2.2">5c78ee78-98ec-40e5-8dbc-5af90d435bc8</name>
+      <Playlist>
+        <FlyTo>
+          <duration>14.0</duration>
+          <flyToMode></flyToMode>
+          <LookAt xmlns="http://www.opengis.net/kml/2.2">
+            <latitude>35.133457</latitude>
+            <longitude>-81.809168</longitude>
+            <altitude>0</altitude>
+            <heading>0</heading>
+            <range>7200</range>
+            <tilt>65</tilt>
+          </LookAt>
+        </FlyTo>
+      </Playlist>
+    </Tour>
+  </Document>
+</kml>

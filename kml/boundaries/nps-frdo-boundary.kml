@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated 2020-10-27 19:46:35.887760 - by make-unit.py -->
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+  <name>Frederick Douglass National Historic Site</name>
+    <StyleMap id="stylemap_id1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#style</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#style0</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="style">
+      <LineStyle>
+        <color>ff00ffff</color>
+        <width>2.5</width>
+      </LineStyle>
+      <PolyStyle>
+        <fill>0</fill>
+        <color>ff00ffff</color>
+      </PolyStyle>
+    </Style>
+    <Style id="style0">
+      <LineStyle>
+        <color>ff00ffff</color>
+        <width>2.5</width>
+      </LineStyle>
+      <PolyStyle>
+        <fill>0</fill>
+        <color>ff00ffff</color>
+      </PolyStyle>
+    </Style>
+    <Placemark id="frdo">
+      <name>Frederick Douglass National Historic Site</name>
+      <styleUrl>#stylemap_id1</styleUrl>
+      <MultiGeometry>
+        <Polygon><outerBoundaryIs><LinearRing><coordinates>-76.985397898066466,38.862416246600048 -76.985838860755393,38.862496165729681 -76.986217782746394,38.862756898921802 -76.986146884603585,38.862996025084428 -76.986137845308562,38.863026512815239 -76.986057907266812,38.86329612664175 -76.985977968621086,38.863565740401313 -76.985898029371427,38.863835354093943 -76.985818089517778,38.864104967719634 -76.985452696384641,38.864038746226939 -76.985087303929575,38.863972523590085 -76.984721912152551,38.863906299809052 -76.984356521053627,38.863840074883875 -76.983991130632802,38.863773848814539 -76.984072521455147,38.863489222483636 -76.984153911628297,38.863204596082419 -76.984235301152296,38.86291996961085 -76.984316690027157,38.862635343068966 -76.984398078252894,38.86235071645676 -76.98447946582948,38.862066089774274 -76.984560852756928,38.861781463021423 -76.984642239035281,38.861496836198313 -76.9847295355233,38.86141974093546 -76.985242418622263,38.861753462248416 -76.985320157983395,38.86208485445929 -76.985397898066466,38.862416246600048</coordinates></LinearRing></outerBoundaryIs></Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Document>
+</kml>

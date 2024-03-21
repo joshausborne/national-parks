@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated 2020-10-27 19:46:35.887760 - by make-unit.py -->
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+  <name>Mount Rushmore National Memorial</name>
+    <StyleMap id="stylemap_id1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#style</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#style0</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="style">
+      <LineStyle>
+        <color>ff00ffff</color>
+        <width>2.5</width>
+      </LineStyle>
+      <PolyStyle>
+        <fill>0</fill>
+        <color>ff00ffff</color>
+      </PolyStyle>
+    </Style>
+    <Style id="style0">
+      <LineStyle>
+        <color>ff00ffff</color>
+        <width>2.5</width>
+      </LineStyle>
+      <PolyStyle>
+        <fill>0</fill>
+        <color>ff00ffff</color>
+      </PolyStyle>
+    </Style>
+    <Placemark id="moru">
+      <name>Mount Rushmore National Memorial</name>
+      <styleUrl>#stylemap_id1</styleUrl>
+      <MultiGeometry>
+        <Polygon><outerBoundaryIs><LinearRing><coordinates>-103.463827721229691,43.88658058813396 -103.463647184707497,43.892328722243093 -103.458548680058513,43.892302595547974 -103.458546384836112,43.891990748048237 -103.454726725323781,43.891898729373693 -103.454734005735077,43.890034926059329 -103.452128331958605,43.890031532652714 -103.452102407475508,43.886384541230022 -103.446868805462742,43.886377997571799 -103.446837431507859,43.886945521869841 -103.446277211408002,43.88695583109287 -103.446240520101327,43.88742091162316 -103.444396172156033,43.887423625431033 -103.444290962895295,43.890130032678421 -103.429161269885071,43.890010943810218 -103.429178301371905,43.886254350965629 -103.434172271117916,43.886308248479054 -103.434135299999895,43.88267990002241 -103.436658845083159,43.882675748148067 -103.4390875,43.882671700022414 -103.439075500943005,43.879062167384077 -103.444233716142094,43.879061686533021 -103.444078744882191,43.871843202747414 -103.443998502576989,43.868104869355406 -103.449302685955743,43.868095431972392 -103.458439899999888,43.868078600022443 -103.4584409,43.868364500022437 -103.46377181444204,43.868353563536054 -103.463769992649887,43.875721144294673 -103.468932758255605,43.875694757374426 -103.468905959626483,43.884774871209665 -103.4689008197183,43.886516097612741 -103.463827721229691,43.88658058813396</coordinates></LinearRing></outerBoundaryIs></Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Document>
+</kml>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated 2020-10-27 19:46:35.887760 - by make-unit.py -->
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+  <name>City of Rocks National Reserve</name>
+    <StyleMap id="stylemap_id1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#style</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#style0</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="style">
+      <LineStyle>
+        <color>ff00ffff</color>
+        <width>2.5</width>
+      </LineStyle>
+      <PolyStyle>
+        <fill>0</fill>
+        <color>ff00ffff</color>
+      </PolyStyle>
+    </Style>
+    <Style id="style0">
+      <LineStyle>
+        <color>ff00ffff</color>
+        <width>2.5</width>
+      </LineStyle>
+      <PolyStyle>
+        <fill>0</fill>
+        <color>ff00ffff</color>
+      </PolyStyle>
+    </Style>
+    <Placemark id="ciro">
+      <name>City of Rocks National Reserve</name>
+      <styleUrl>#stylemap_id1</styleUrl>
+      <MultiGeometry>
+        <Polygon><outerBoundaryIs><LinearRing><coordinates>-113.746413033341213,42.018599232451926 -113.746114021867825,42.111915576098347 -113.736590794976223,42.111889629442686 -113.73633486529161,42.119085503874331 -113.726448629727201,42.119090559532651 -113.726514706881403,42.126242433783737 -113.707476249282223,42.125940547986296 -113.707345091258446,42.111145804717147 -113.697319847099763,42.110604869594177 -113.697331812671493,42.107272926780183 -113.687601580127762,42.107153982307871 -113.6875105427237,42.103755040813887 -113.682430421500698,42.103702069432842 -113.682332379233983,42.099840135636292 -113.667894035288427,42.099717215809989 -113.667590690160438,42.066799771399801 -113.687583164218125,42.067082666292876 -113.687112659317378,42.019444481412911 -113.746413033341213,42.018599232451926</coordinates></LinearRing></outerBoundaryIs></Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Document>
+</kml>

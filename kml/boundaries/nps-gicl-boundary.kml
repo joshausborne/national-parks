@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated 2020-10-27 19:46:35.887760 - by make-unit.py -->
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+  <name>Gila Cliff Dwellings National Monument</name>
+    <StyleMap id="stylemap_id1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#style</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#style0</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="style">
+      <LineStyle>
+        <color>ff00ffff</color>
+        <width>2.5</width>
+      </LineStyle>
+      <PolyStyle>
+        <fill>0</fill>
+        <color>ff00ffff</color>
+      </PolyStyle>
+    </Style>
+    <Style id="style0">
+      <LineStyle>
+        <color>ff00ffff</color>
+        <width>2.5</width>
+      </LineStyle>
+      <PolyStyle>
+        <fill>0</fill>
+        <color>ff00ffff</color>
+      </PolyStyle>
+    </Style>
+    <Placemark id="gicl">
+      <name>Gila Cliff Dwellings National Monument</name>
+      <styleUrl>#stylemap_id1</styleUrl>
+      <MultiGeometry>
+        <Polygon><outerBoundaryIs><LinearRing><coordinates>-108.265489179796944,33.223380467530973 -108.265972782736483,33.21994104217417 -108.270930505566241,33.220238551078026 -108.275888355474066,33.220535947105539 -108.28070818760537,33.220824257587651 -108.280769120565992,33.224375272641311 -108.280890118965303,33.231567463731288 -108.281504306362152,33.235263233918232 -108.276431342222011,33.234973636908109 -108.271358296644891,33.234684103424286 -108.266285156228648,33.234394273242032 -108.265621989513889,33.230693561644955 -108.265489179796944,33.223380467530973</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates>-108.240938628039856,33.223580398272397 -108.239873760630402,33.223546753143502 -108.236280320427142,33.22343757589227 -108.236310021374265,33.222464773027554 -108.236109939990499,33.219309558844571 -108.239726795447709,33.219463907781346 -108.23974292062185,33.219911888622612 -108.24029390216873,33.219933990762193 -108.240325571481478,33.220829589638569 -108.240600771545772,33.220840458444769 -108.240622486599008,33.221735494169671 -108.240894174513329,33.221746053827992 -108.240912377824642,33.222640780880226 -108.240938628039856,33.223580398272397</coordinates></LinearRing></outerBoundaryIs></Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Document>
+</kml>

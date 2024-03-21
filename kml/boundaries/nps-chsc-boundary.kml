@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated 2020-10-27 19:46:35.887760 - by make-unit.py -->
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+  <name>Little Rock Central High School National Historic Site</name>
+    <StyleMap id="stylemap_id1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#style</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#style0</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="style">
+      <LineStyle>
+        <color>ff00ffff</color>
+        <width>2.5</width>
+      </LineStyle>
+      <PolyStyle>
+        <fill>0</fill>
+        <color>ff00ffff</color>
+      </PolyStyle>
+    </Style>
+    <Style id="style0">
+      <LineStyle>
+        <color>ff00ffff</color>
+        <width>2.5</width>
+      </LineStyle>
+      <PolyStyle>
+        <fill>0</fill>
+        <color>ff00ffff</color>
+      </PolyStyle>
+    </Style>
+    <Placemark id="chsc">
+      <name>Little Rock Central High School National Historic Site</name>
+      <styleUrl>#stylemap_id1</styleUrl>
+      <MultiGeometry>
+        <Polygon><outerBoundaryIs><LinearRing><coordinates>-92.297999644190213,34.735817467930509 -92.297720009551796,34.735818139609158 -92.297719719170288,34.735735713144123 -92.297718743492524,34.735458760202789 -92.297898530441131,34.735458328429274 -92.297998376941777,34.735458088526912 -92.297999644190213,34.735817467930509</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates>-92.297306465007694,34.73745338710053 -92.297362713198623,34.737453252234076 -92.297905558156245,34.737451949341782 -92.298005407012369,34.737451709433927 -92.298002005292631,34.736487045481077 -92.297999644190213,34.735817467930509 -92.30279063181726,34.735805862088746 -92.302797769007782,34.73779781823545 -92.298605763682531,34.737807861519734 -92.298606056391662,34.737890700050052 -92.298606541814365,34.738028077374864 -92.298607524314789,34.738306129058365 -92.298441107874567,34.738306529668002 -92.298274691432781,34.738306930054321 -92.298108274989417,34.738307330217296 -92.298008425122674,34.738307570207894 -92.298010041265925,34.738765860870998 -92.297910190857095,34.738766100782442 -92.297311088392192,34.738767538562847 -92.29730801449729,34.737893818867803 -92.297307431624404,34.737728141798641 -92.297306948315267,34.737590764453152 -92.297306465007694,34.73745338710053</coordinates></LinearRing></outerBoundaryIs></Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Document>
+</kml>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated 2020-10-27 19:46:35.887760 - by make-unit.py -->
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+  <name>Pipestone National Monument</name>
+    <StyleMap id="stylemap_id1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#style</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#style0</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="style">
+      <LineStyle>
+        <color>ff00ffff</color>
+        <width>2.5</width>
+      </LineStyle>
+      <PolyStyle>
+        <fill>0</fill>
+        <color>ff00ffff</color>
+      </PolyStyle>
+    </Style>
+    <Style id="style0">
+      <LineStyle>
+        <color>ff00ffff</color>
+        <width>2.5</width>
+      </LineStyle>
+      <PolyStyle>
+        <fill>0</fill>
+        <color>ff00ffff</color>
+      </PolyStyle>
+    </Style>
+    <Placemark id="pipe">
+      <name>Pipestone National Monument</name>
+      <styleUrl>#stylemap_id1</styleUrl>
+      <MultiGeometry>
+        <Polygon><outerBoundaryIs><LinearRing><coordinates>-96.327728456922515,44.008852308444553 -96.331455760534027,44.00881281615581 -96.331610701677008,44.01725239858164 -96.327670766069872,44.017279663896844 -96.326918177471825,44.017270637204732 -96.326927290729486,44.019262251745388 -96.320076761641189,44.019180577677574 -96.319913608443031,44.018533433442713 -96.319780753056108,44.017882691089483 -96.319678345224133,44.017229089003102 -96.31960650012995,44.016573368789089 -96.319565298269211,44.015916274431625 -96.319211704512952,44.015912008575711 -96.31770540743932,44.015892752282042 -96.317702064853393,44.015487527210411 -96.317698473274163,44.015052110218342 -96.317645833644818,44.00866972552808 -96.318851332418063,44.008684536094833 -96.319264071717711,44.008689603994071 -96.320881282487548,44.008709446727686 -96.320882752731578,44.008646991109863 -96.321404230528714,44.008644826062962 -96.321402563328547,44.008715674933534 -96.3276277423588,44.00879181185681 -96.327628024731979,44.008853370866355 -96.327728456922515,44.008852308444553</coordinates></LinearRing></outerBoundaryIs></Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Document>
+</kml>

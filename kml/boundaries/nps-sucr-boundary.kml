@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated 2020-10-27 19:46:35.887760 - by make-unit.py -->
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+  <name>Sunset Crater Volcano National Monument</name>
+    <StyleMap id="stylemap_id1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#style</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#style0</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="style">
+      <LineStyle>
+        <color>ff00ffff</color>
+        <width>2.5</width>
+      </LineStyle>
+      <PolyStyle>
+        <fill>0</fill>
+        <color>ff00ffff</color>
+      </PolyStyle>
+    </Style>
+    <Style id="style0">
+      <LineStyle>
+        <color>ff00ffff</color>
+        <width>2.5</width>
+      </LineStyle>
+      <PolyStyle>
+        <fill>0</fill>
+        <color>ff00ffff</color>
+      </PolyStyle>
+    </Style>
+    <Placemark id="sucr">
+      <name>Sunset Crater Volcano National Monument</name>
+      <styleUrl>#stylemap_id1</styleUrl>
+      <MultiGeometry>
+        <Polygon><outerBoundaryIs><LinearRing><coordinates>-111.524678035798971,35.381961380140439 -111.524675074841369,35.38555051435231 -111.520822138329521,35.385556799898808 -111.520232759476855,35.385557984215517 -111.515790453221058,35.38556718420832 -111.506905834932695,35.385585635174927 -111.498011486611304,35.385589289566191 -111.489116902752926,35.385592859488142 -111.489115269050089,35.383451655303062 -111.489053687157238,35.371108571032948 -111.489051565719407,35.368995045176028 -111.489028722858365,35.356679997485152 -111.497937938775252,35.356706145011131 -111.506846924454877,35.356732193933716 -111.515754349195475,35.35672870555306 -111.524661768286506,35.356725101679181 -111.524662388610508,35.357659059126277 -111.524665756246947,35.360352902854864 -111.533593338446579,35.360326101617666 -111.533594694429667,35.371169955073675 -111.533559785002652,35.381953897351501 -111.524678035798971,35.381961380140439</coordinates></LinearRing></outerBoundaryIs></Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Document>
+</kml>
